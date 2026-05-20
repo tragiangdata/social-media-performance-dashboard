@@ -52,7 +52,7 @@ The project uses simulated social media datasets containing:
 
 ## Dashboard Preview
 
-![Dashboard Preview](Assets/dashboard_preview.png)
+![Dashboard Preview](Assets/dashboard_preview.jpg)
 
 ---
 
