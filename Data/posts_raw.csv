@@ -1,0 +1,501 @@
+post_id,platform,user_id,user_name,created_at,text,likes,comments,shares,sentiment_label,country
+P00001, Fb ,U035,hoa.le,22/02/2025 16:06,    Feeling  great  today  with  #sale!  Comment  your  thoughts  @review.channel  https://tiktok.com/@brandx      ,1395,436,26,pos,UK
+P00002,youtube,U043,foodlover,2025/01/21 08:57:00,check out our new campaign #blackfriday on youtube! thanks @daily.vlog for sharing the news. https://brandx.com,2594,749,459,pos,Vietnam
+P00003,Facebook,U019,sara.kim,03-01-2025,TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #BLACKFRIDAY @TECH.GURU MORE INFO: HTTPS://YOUTU.BE/XYZ123,null, 393 ,null,Positive,DE
+P00004,tiktok,U027,game.stream, 2025-03-14 18:00:00 ,    TOP  5  TIPS  FOR  BETTER  RESULTS  WITH  BRAND  X  #BACKTOSCHOOL  @REVIEW.CHANNEL  MORE  INFO:  HTTPS://TIKTOK.COM/@BRANDX        😂,3992, 533 ,429,POS,vietnam
+P00005,X,U011,chef.tasty,26/03/2025 16:10,check out our new campaign #tiktoktrend on twitter! thanks @review.channel for sharing the news. https://youtu.be/xyz123 😂,1870,198,293,Neutral,Vietnam
+P00006,twitter,U076,hoa.le,22/03/2025 19:00,Bạn đã thử sản phẩm mới chưa? #vlog @daily.vlog Review ngay tại https://tiktok.com/@brandx,244, 327 ,147,Negative,Germany
+P00007, twt ,U070,chef.tasty,2025/01/23 12:34:00,  check out our new campaign #noel on twitter! thanks @ngoc.trinh for sharing the news. https://brandx.com   ,551.0,233,98,positive,Germany
+P00008, insta ,U035,lifeoflinh,2025/03/23 21:00:00,    live  stream  on  instagram  tonight!  #newproduct  #promo  join  us  @game.stream  http://bit.ly/deal      ,363, 42 ,221.0,Negative,DE
+P00009, yt ,U049,hoa.le,2025/03/12 06:40:00,big update: #backtoschool is now available. limited promo #brandx @football_fever http://bit.ly/deal 💥,280.0,null,575,positive,U.K.
+P00010, Fb ,U021,lifeoflinh,10/01/2025 06:55,TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #SUMMER @FOODLOVER MORE INFO: HTTPS://BRANDX.COM 👍,234,, 265 ,positive,United Kingdom
+P00011,X,U038,daily.vlog,17-02-2025,  BIG UPDATE: #TIKTOKTREND IS NOW AVAILABLE. LIMITED PROMO #NEWPRODUCT @BRANDX_OFFICIAL HTTPS://TIKTOK.COM/@BRANDX   ,,31,379,positive,TH
+P00012,FACEBOOK,U045,ngoc.trinh,27/03/2025 22:19,  FEELING GREAT TODAY WITH #BLACKFRIDAY! COMMENT YOUR THOUGHTS @BRANDX_OFFICIAL HTTPS://TIKTOK.COM/@BRANDX    ❤️,2116,263,284,Positive,Japan
+P00013,FB,U070,movie_buff, 2025-01-30 02:21:00 ,  Khách hàng nói gì về Brand X? #promo #food @game.stream Xem chi tiết tại https://example.com/blog   ,1319, 135 ,203.0,mixed,japan
+P00014,Facebook,U026,game.stream,2025/01/26 08:12:00,feeling great today with #travel! comment your thoughts @hoa.le https://tiktok.com/@brandx,343,174,283,unknown,Germany
+P00015,YouTube,U018,chef.tasty, 2025-03-06 07:25:00 ,    big  update:  #brandx  is  now  available.  limited  promo  #food  @chef.tasty  http://bit.ly/deal        💥,1846,513,129,neutral,Vietnam
+P00016,YOUTUBE,U078,chef.tasty,14/02/2025 06:37,FEELING GREAT TODAY WITH #NEWPRODUCT! COMMENT YOUR THOUGHTS @MOVIE_BUFF HTTPS://YOUTU.BE/XYZ123,3456,323,NA,POS,Korea
+P00017,Instagram,U025,brandX_official,2025/02/18 09:53:00,  top 5 tips for better results with brand x #blackfriday @game.stream more info: http://bit.ly/deal    😀,716,438,286,pos,VN
+P00018,Instagram,U016,tech.guru,2025-03-07 03:20:00 UTC,BIG UPDATE: #SALE IS NOW AVAILABLE. LIMITED PROMO #BLACKFRIDAY @LAN.TRAN HTTPS://TIKTOK.COM/@BRANDX, 1222 ,55,238,Neutral,thailand
+P00019,Instagram,U032,ngoc.trinh,2025/02/04 22:36:00,  Bạn đã thử sản phẩm mới chưa? #vlog @ngoc.trinh Review ngay tại https://tiktok.com/@brandx    😀,1126,172,24,positive,Vietnam
+P00020,TikTok,U064,sara.kim,2025/03/04 01:02:00,KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #GIVEAWAY #SUMMER @FOOTBALL_FEVER XEM CHI TIẾT TẠI HTTP://BIT.LY/DEAL 💥,4906,32,474.0,neutral,JP
+P00021,Instagram,U075,minh.nguyen,12-02-2025,  khách hàng nói gì về brand x? #music #promo @tech.guru xem chi tiết tại http://bit.ly/deal   ,1704,NA,217,Positive,vietnam
+P00022,TIKTOK,U022,travel.with.me,06-01-2025,  top 5 tips for better results with brand x #winter @music_fan more info: https://youtu.be/xyz123    👍,3838,229.0,289,neutral,VN
+P00023,tiktok,U079,review.channel,2025-03-13 16:51:00 UTC,  Top 5 tips for better results with Brand X #football @daily.vlog More info: https://youtu.be/xyz123   ,3684,113,61,NEU,Germany
+P00024,tiktok,U067,movie_buff,2025/01/20 23:08:00,Khách hàng nói gì về Brand X? #football #music @foodlover Xem chi tiết tại https://brandx.com,1715.0,75,413.0,Negative,Viet Nam
+P00025,TikTok,U042,review.channel,2025/01/04 09:59:00,  feeling great today with #music! comment your thoughts @music_fan https://example.com/blog   ,933,289,null,pos,vietnam
+P00026,instagram,U020,ngoc.trinh,not_a_date,  Khách hàng nói gì về Brand X? #hottrend #blackfriday @daily.vlog Xem chi tiết tại https://tiktok.com/@brandx   ,1597,39, 254 ,neg,UK
+P00027, twt ,U061,john.smith,17-01-2025,  FEELING GREAT TODAY WITH #VLOG! COMMENT YOUR THOUGHTS @NGOC.TRINH HTTPS://TIKTOK.COM/@BRANDX   ,1182,185.0,109,Positive,Vietnam
+P00028,Facebook,U066,john.smith,18-03-2025,  Big update: #promo is now available. Limited promo #music @daily.vlog https://example.com/blog   ,516,448,243,mixed,germany
+P00029,Facebook,U021,hoa.le,2025-02-12 09:06:00 UTC,KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #SUMMER #TRAVEL @NGOC.TRINH XEM CHI TIẾT TẠI HTTPS://YOUTU.BE/XYZ123,1657,NA,28,POS,South Korea
+P00030, Fb ,U018,lan.tran,15/02/2025 22:51,  FEELING GREAT TODAY WITH #FOOTBALL! COMMENT YOUR THOUGHTS @FOODLOVER HTTPS://YOUTU.BE/XYZ123    👍,,45,345,Positive,U.K.
+P00031,TIKTOK,U045,foodlover,2025-01-08 09:35:00 UTC,khách  hàng  nói  gì  về  brand  x?  #promo  #summer  @foodlover  xem  chi  tiết  tại  http://bit.ly/deal  💥,,570,0,,japan
+P00032,YOUTUBE,U034,lifeoflinh,13-03-2025,  FEELING GREAT TODAY WITH #SUMMER! COMMENT YOUR THOUGHTS @LAN.TRAN HTTPS://TIKTOK.COM/@BRANDX    👍,2876,320,null,neg,JP
+P00033,FACEBOOK,U038,hoa.le,2025/02/19 07:11:00,LIVE  STREAM  ON  FACEBOOK  TONIGHT!  #TIKTOKTREND  #GIVEAWAY  JOIN  US  @JOHN.SMITH  HTTPS://TIKTOK.COM/@BRANDX  👍,NA, 101 ,204,NEU,VN
+P00034,Twitter,U027,movie_buff,24-02-2025,live stream on twitter tonight! #winter #blackfriday join us @minh.nguyen http://bit.ly/deal,NA,391, 320 ,neutral,Germany
+P00035,X,U047,brandX_official,13-01-2025,  FEELING GREAT TODAY WITH #NEWPRODUCT! COMMENT YOUR THOUGHTS @JOHN.SMITH HTTPS://BRANDX.COM   , 232 ,,130,pos,U.K.
+P00036,TikTok,U012,tech.guru,09-03-2025,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #NEWPRODUCT @FOOTBALL_FEVER MORE INFO: HTTP://BIT.LY/DEAL    😀,2536,null,240,POS,Germany
+P00037, Fb ,U080,john.smith,2025/02/26 20:52:00,  check out our new campaign #vlog on facebook! thanks @sara.kim for sharing the news. https://youtu.be/xyz123   ,1701,107,122,NEG,Germany
+P00038,tiktok,U017,hoa.le,24/01/2025 01:17,Check  out  our  new  campaign  #blackfriday  on  TikTok!  Thanks  @daily.vlog  for  sharing  the  news.  http://bit.ly/deal  👍,205,124,NA,pos,JP
+P00039, Fb ,U070,travel.with.me,2025-02-09 17:38:00 UTC,    feeling  great  today  with  #tiktoktrend!  comment  your  thoughts  @sara.kim  http://bit.ly/deal        💥,null,218,108,positive,South Korea
+P00040,FB,U020,brandX_official,27/03/2025 09:35,  Khách hàng nói gì về Brand X? #music #promo @ngoc.trinh Xem chi tiết tại https://tiktok.com/@brandx    😂,1641,291,367,negative,KR
+P00041,YOUTUBE,U047,hoa.le,2025-01-28 10:28:00 UTC,    LIVE  STREAM  ON  YOUTUBE  TONIGHT!  #SALE  #TIKTOKTREND  JOIN  US  @MINH.NGUYEN  HTTPS://EXAMPLE.COM/BLOG        😂,301,159,537,Positive,TH
+P00042,FB,U053,chef.tasty,20-03-2025,    CHECK  OUT  OUR  NEW  CAMPAIGN  #WINTER  ON  FACEBOOK!  THANKS  @LIFEOFLINH  FOR  SHARING  THE  NEWS.  HTTPS://BRANDX.COM      ,178,110,77,neutral,Thailand
+P00043,twitter,U075,music_fan,17-02-2025,BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #TRAVEL @LIFEOFLINH REVIEW NGAY TẠI HTTPS://EXAMPLE.COM/BLOG,2167,432.0,338.0,Negative,Vietnam
+P00044,FACEBOOK,U075,sara.kim,not_a_date,  Big update: #newproduct is now available. Limited promo #giveaway @foodlover https://tiktok.com/@brandx   ,120,190,151,Negative,korea
+P00045,instagram,U037,review.channel,15-03-2025,feeling great today with #tiktoktrend! comment your thoughts @brandx_official https://brandx.com,214,299,,Positive,U.K.
+P00046,TIKTOK,U023,john.smith, 2025-03-27 03:04:00 ,LIVE STREAM ON TIKTOK TONIGHT! #MUSIC #BLACKFRIDAY JOIN US @SARA.KIM HTTPS://TIKTOK.COM/@BRANDX ❤️, 824 ,781,499,NEG,germany
+P00047,X,U068,chef.tasty,2025-02-12 18:38:00 UTC,  Khách hàng nói gì về Brand X? #blackfriday #travel @football_fever Xem chi tiết tại https://youtu.be/xyz123    🔥,963,52,373,Neutral,Vietnam
+P00048, yt ,U019,movie_buff,2025-01-06 12:09:00 UTC,KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #WINTER #BLACKFRIDAY @BRANDX_OFFICIAL XEM CHI TIẾT TẠI HTTPS://TIKTOK.COM/@BRANDX,4176,669,187,Neutral,korea
+P00049, yt ,U001,chef.tasty, 2025-01-20 16:22:00 ,    big  update:  #hottrend  is  now  available.  limited  promo  #noel  @foodlover  https://brandx.com      , 3879 ,405,326,positive,South Korea
+P00050, Tik Tok ,U012,football_fever,2025/02/26 22:00:00,  FEELING GREAT TODAY WITH #NEWPRODUCT! COMMENT YOUR THOUGHTS @MOVIE_BUFF HTTP://BIT.LY/DEAL   ,1962.0,717,561,neutral,japan
+P00051,TIKTOK,U076,football_fever,2025/03/27 15:02:00,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #WINTER @NGOC.TRINH MORE INFO: HTTPS://EXAMPLE.COM/BLOG   ,3851,438,14.0,POS,thailand
+P00052, twt ,U035,movie_buff,2025/03/11 17:43:00,  CHECK OUT OUR NEW CAMPAIGN #PROMO ON TWITTER! THANKS @TRAVEL.WITH.ME FOR SHARING THE NEWS. HTTPS://BRANDX.COM   ,2287,65.0,264.0,pos,South Korea
+P00053,YOUTUBE,U054,daily.vlog,05/03/2025 10:51,  FEELING GREAT TODAY WITH #FOOTBALL! COMMENT YOUR THOUGHTS @MOVIE_BUFF HTTPS://EXAMPLE.COM/BLOG   ,3407,754,500,positive,Viet Nam
+P00054,instagram,,daily.vlog, 2025-01-14 14:16:00 ,  KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #PROMO #SUMMER @MOVIE_BUFF XEM CHI TIẾT TẠI HTTPS://EXAMPLE.COM/BLOG   ,337,443,33,positive,Thailand
+P00055, Tik Tok ,U056,ngoc.trinh,2025/01/06 21:03:00,  BIG UPDATE: #NEWPRODUCT IS NOW AVAILABLE. LIMITED PROMO #TIKTOKTREND @GAME.STREAM HTTPS://YOUTU.BE/XYZ123    ❤️,2732,376,357,POS,Japan
+P00056,X,U016,minh.nguyen,not_a_date,  FEELING GREAT TODAY WITH #TIKTOKTREND! COMMENT YOUR THOUGHTS @TRAVEL.WITH.ME HTTP://BIT.LY/DEAL    🔥,1175,77.0, 163 ,Neutral,United Kingdom
+P00057, twt ,U069,lan.tran,2025/03/20 23:53:00,  live stream on twitter tonight! #summer #music join us @football_fever https://example.com/blog    😀, 1949 ,NA,113,Negative,DE
+P00058,Twitter,U026,ngoc.trinh,2025/03/03 18:30:00,  LIVE STREAM ON TWITTER TONIGHT! #NOEL #GIVEAWAY JOIN US @TECH.GURU HTTPS://YOUTU.BE/XYZ123   ,1201,40.0,333,,korea
+P00059, Fb ,U079,football_fever,19-02-2025,KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #HOTTREND #SUMMER @FOODLOVER XEM CHI TIẾT TẠI HTTPS://BRANDX.COM ❤️,1704,NA,null,pos,Japan
+P00060, insta ,U078,foodlover,not_a_date,    BẠN  ĐÃ  THỬ  SẢN  PHẨM  MỚI  CHƯA?  #HOTTREND  @LIFEOFLINH  REVIEW  NGAY  TẠI  HTTPS://BRANDX.COM      ,null,280,32,POS,Thailand
+P00061,Twitter,U022,movie_buff,01-04-2025,  khách hàng nói gì về brand x? #summer #tiktoktrend @lifeoflinh xem chi tiết tại https://example.com/blog   ,1860,137,315,POS,germany
+P00062,twitter,U038,travel.with.me,2025-03-18 03:03:00 UTC,    khách  hàng  nói  gì  về  brand  x?  #food  #football  @ngoc.trinh  xem  chi  tiết  tại  https://brandx.com        ❤️,649,395,170,Neutral,Germany
+P00063,twitter,,lan.tran,2025/01/13 15:02:00,  Big update: #vlog is now available. Limited promo #football @hoa.le https://example.com/blog    ❤️,1782,88.0,NA,Negative,Japan
+P00064,Facebook,U078,foodlover,25-03-2025,big update: #summer is now available. limited promo #travel @music_fan https://example.com/blog,, 297 ,188.0,NEU,vietnam
+P00065, yt ,U063,music_fan,2025/02/25 21:46:00,  FEELING GREAT TODAY WITH #WINTER! COMMENT YOUR THOUGHTS @TRAVEL.WITH.ME HTTPS://EXAMPLE.COM/BLOG   ,3622,517, 149 ,neg,Japan
+P00066, twt ,U021,game.stream,22-01-2025,LIVE STREAM ON TWITTER TONIGHT! #NEWPRODUCT #SUMMER JOIN US @MUSIC_FAN HTTPS://EXAMPLE.COM/BLOG 💥,66,255.0,368,Neutral,Thailand
+P00067, Tik Tok ,U030,review.channel,2025/03/23 15:50:00,  bạn đã thử sản phẩm mới chưa? #blackfriday @tech.guru review ngay tại http://bit.ly/deal   ,2443,272,,neg,japan
+P00068,twitter,U025,minh.nguyen,2025-03-27 06:57:00 UTC,  big update: #promo is now available. limited promo #noel @game.stream http://bit.ly/deal   ,290,94,238,pos,Vietnam
+P00069,TikTok,U070,music_fan,2025/01/13 22:40:00,  khách hàng nói gì về brand x? #brandx #winter @tech.guru xem chi tiết tại http://bit.ly/deal    💥,3623,766,478,Negative,VN
+P00070,TikTok,U062,movie_buff,17/02/2025 11:14,Bạn đã thử sản phẩm mới chưa? #vlog @tech.guru Review ngay tại https://tiktok.com/@brandx,,105,null,NEU,U.K.
+P00071,IG,U058,ngoc.trinh,2025/02/19 12:11:00,LIVE STREAM ON INSTAGRAM TONIGHT! #MUSIC #WINTER JOIN US @FOOTBALL_FEVER HTTPS://EXAMPLE.COM/BLOG,1855,386,73,neg,thailand
+P00072,youtube,U032,lifeoflinh,17/02/2025 20:10,  LIVE STREAM ON YOUTUBE TONIGHT! #TRAVEL #BACKTOSCHOOL JOIN US @DAILY.VLOG HTTPS://TIKTOK.COM/@BRANDX    🔥,3555,703,5,,United States
+P00073,TIKTOK,U029,foodlover,2025-01-21 03:22:00 UTC,  FEELING GREAT TODAY WITH #NOEL! COMMENT YOUR THOUGHTS @MINH.NGUYEN HTTPS://YOUTU.BE/XYZ123   ,3730,684,55,positive,U.K.
+P00074,Twitter,U035,brandX_official,04/03/2025 13:42,KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #WINTER #TRAVEL @GAME.STREAM XEM CHI TIẾT TẠI HTTPS://EXAMPLE.COM/BLOG 😂,1132, 401 ,205,neutral,Vietnam
+P00075,TIKTOK,U073,lifeoflinh,04/02/2025 06:42,  LIVE STREAM ON TIKTOK TONIGHT! #TIKTOKTREND #SUMMER JOIN US @HOA.LE HTTPS://EXAMPLE.COM/BLOG   ,,664,309,Negative,United Kingdom
+P00076, twt ,U054,tech.guru,01-03-2025,KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #GIVEAWAY #SALE @LAN.TRAN XEM CHI TIẾT TẠI HTTPS://EXAMPLE.COM/BLOG ❤️,1901,393,219,positive,JP
+P00077,TIKTOK,U006,movie_buff,17/01/2025 14:14,  BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #BRANDX @HOA.LE REVIEW NGAY TẠI HTTPS://TIKTOK.COM/@BRANDX   , 4139 ,491,NA,neutral,UK
+P00078,Twitter,U042,daily.vlog,23-03-2025,    LIVE  STREAM  ON  TWITTER  TONIGHT!  #HOTTREND  #FOOTBALL  JOIN  US  @TRAVEL.WITH.ME  HTTPS://BRANDX.COM        🔥,2116.0,451,,neutral,United Kingdom
+P00079,instagram,U061,music_fan,2025/01/19 01:52:00,  khách hàng nói gì về brand x? #backtoschool #tiktoktrend @sara.kim xem chi tiết tại https://example.com/blog   ,315,486,190,NEU,uk
+P00080,facebook,U079,ngoc.trinh,09/01/2025 06:48,    big  update:  #brandx  is  now  available.  limited  promo  #backtoschool  @lan.tran  https://tiktok.com/@brandx        😀,1388.0,335,54,positive,us
+P00081,Instagram,U053,foodlover,not_a_date,  big update: #food is now available. limited promo #football @football_fever http://bit.ly/deal    ❤️,2390,359,392,neutral,thailand
+P00082,TikTok,U048,game.stream,16-03-2025,  live stream on tiktok tonight! #noel #hottrend join us @game.stream https://brandx.com    ❤️,1098,147,445,Neutral,TH
+P00083, insta ,U051,chef.tasty,24/03/2025 14:13,  KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #TIKTOKTREND #BRANDX @TRAVEL.WITH.ME XEM CHI TIẾT TẠI HTTPS://EXAMPLE.COM/BLOG    💥,520,134,126,pos,Japan
+P00084,youtube,U049,daily.vlog,2025-01-25 08:04:00 UTC,  Top 5 tips for better results with Brand X #music @foodlover More info: https://brandx.com   ,4093,349,345,POS,South Korea
+P00085,TIKTOK,U072,hoa.le,2025-03-10 17:41:00 UTC,  feeling great today with #backtoschool! comment your thoughts @lifeoflinh https://example.com/blog    😀,1856,,548,NEU,japan
+P00086, Fb ,U024,lifeoflinh,2025/03/23 18:49:00,Check out our new campaign #noel on Facebook! Thanks @minh.nguyen for sharing the news. https://youtu.be/xyz123,233.0,205,32,positive,VN
+P00087,X,U043,travel.with.me,2025-02-02 15:12:00 UTC,  CHECK OUT OUR NEW CAMPAIGN #MUSIC ON TWITTER! THANKS @MINH.NGUYEN FOR SHARING THE NEWS. HTTPS://BRANDX.COM   ,2076,111, 244 ,POS,United States
+P00088,Twitter,U064,chef.tasty,2025-03-17 05:39:00 UTC,    big  update:  #music  is  now  available.  limited  promo  #newproduct  @lifeoflinh  https://brandx.com      ,NA,null,380,mixed,germany
+P00089,FACEBOOK,U019,ngoc.trinh, 2025-03-17 01:14:00 ,    khách  hàng  nói  gì  về  brand  x?  #summer  #travel  @foodlover  xem  chi  tiết  tại  https://example.com/blog      ,348,445,136,neutral,uk
+P00090,FB,U031,foodlover,02-01-2025,    bạn  đã  thử  sản  phẩm  mới  chưa?  #vlog  @john.smith  review  ngay  tại  https://example.com/blog      , 1277 ,7.0, 32 ,neutral,Thailand
+P00091,IG,U011,game.stream,26-03-2025,TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #MUSIC @FOOTBALL_FEVER MORE INFO: HTTPS://YOUTU.BE/XYZ123 👍,857,284,223,mixed,Vietnam
+P00092, Fb ,U014,john.smith, 2025-03-02 20:12:00 ,    feeling  great  today  with  #hottrend!  comment  your  thoughts  @review.channel  https://example.com/blog        💥,625,NA,357,negative,Japan
+P00093,Twitter,U080,music_fan,2025/02/03 10:59:00,top 5 tips for better results with brand x #noel @hoa.le more info: http://bit.ly/deal,2053,39,134.0,POS,TH
+P00094, Tik Tok ,U044,john.smith,2025/01/17 22:42:00,  Feeling great today with #summer! Comment your thoughts @review.channel https://tiktok.com/@brandx   ,4089,647,589,neg,USA
+P00095,Twitter,U029,ngoc.trinh,10/02/2025 10:05,  Khách hàng nói gì về Brand X? #giveaway #music @ngoc.trinh Xem chi tiết tại https://youtu.be/xyz123    👍,NA,NA, 165 ,NEU,Japan
+P00096, insta ,U071,review.channel,04-01-2025,    BIG  UPDATE:  #NEWPRODUCT  IS  NOW  AVAILABLE.  LIMITED  PROMO  #GIVEAWAY  @SARA.KIM  HTTPS://EXAMPLE.COM/BLOG        💥,,71,343,neg,thailand
+P00097,FB,U036,sara.kim,01-02-2025,LIVE STREAM ON FACEBOOK TONIGHT! #FOOD #VLOG JOIN US @SARA.KIM HTTP://BIT.LY/DEAL,NA,151,40,positive,Germany
+P00098,YOUTUBE,U007,game.stream,20/02/2025 19:27,  big update: #sale is now available. limited promo #food @foodlover http://bit.ly/deal   ,NA,220,NA,pos,U.S.A
+P00099,Twitter,,music_fan,not_a_date,top 5 tips for better results with brand x #food @daily.vlog more info: http://bit.ly/deal,964,214,,unknown,DE
+P00100,X,U001,music_fan,2025/03/07 03:00:00,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #MUSIC @LIFEOFLINH MORE INFO: HTTPS://EXAMPLE.COM/BLOG    🔥, 1213 ,159,153.0,mixed,germany
+P00101,FB,U031,ngoc.trinh,29/01/2025 08:54,big update: #sale is now available. limited promo #backtoschool @music_fan https://example.com/blog 😂,2352,32,99,NEU,germany
+P00102,X,U003,review.channel,2025/01/19 11:09:00,  Khách hàng nói gì về Brand X? #winter #BrandX @lan.tran Xem chi tiết tại https://brandx.com   ,NA,484,245,NEU,Germany
+P00103,YOUTUBE,U066,movie_buff,25/01/2025 06:26,  FEELING GREAT TODAY WITH #GIVEAWAY! COMMENT YOUR THOUGHTS @MINH.NGUYEN HTTPS://TIKTOK.COM/@BRANDX    💥,1750,650,392,neutral,uk
+P00104, yt ,U074,minh.nguyen,10-03-2025,Check  out  our  new  campaign  #football  on  YouTube!  Thanks  @brandX_official  for  sharing  the  news.  https://youtu.be/xyz123,3306,142,321,unknown,DE
+P00105, yt ,U059,music_fan, 2025-01-19 11:49:00 ,  Khách hàng nói gì về Brand X? #music #hottrend @football_fever Xem chi tiết tại https://brandx.com   ,null,687,NA,Positive,South Korea
+P00106,tiktok,U005,chef.tasty,2025/02/28 15:13:00,  Big update: #backtoschool is now available. Limited promo #newproduct @review.channel https://tiktok.com/@brandx    ❤️,2843,106,194,Positive,USA
+P00107,YouTube,U068,travel.with.me,2025/01/23 16:26:00,  Feeling great today with #food! Comment your thoughts @john.smith https://brandx.com    😀,4591,266,445,NEU,vietnam
+P00108, insta ,U051,lifeoflinh,26-03-2025,  BIG UPDATE: #VLOG IS NOW AVAILABLE. LIMITED PROMO #FOOD @NGOC.TRINH HTTPS://YOUTU.BE/XYZ123   ,624,493,,NEU,Viet Nam
+P00109,TIKTOK,U012,movie_buff,2025/01/28 07:03:00,  Live stream on TikTok tonight! #BrandX #noel Join us @brandX_official https://tiktok.com/@brandx   ,NA, 227 ,,Neutral,Japan
+P00110,IG,U074,brandX_official,10/02/2025 01:10,Feeling  great  today  with  #hottrend!  Comment  your  thoughts  @review.channel  https://brandx.com,1176, 145 , 199 ,Positive,VN
+P00111,YouTube,U008,movie_buff,2025/01/11 16:58:00,  BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #PROMO @LAN.TRAN REVIEW NGAY TẠI HTTPS://TIKTOK.COM/@BRANDX    👍,3775,530,45.0,positive,U.K.
+P00112, insta ,U070,lifeoflinh,05/02/2025 03:11,  KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #FOOTBALL #MUSIC @NGOC.TRINH XEM CHI TIẾT TẠI HTTPS://YOUTU.BE/XYZ123    😂, 79 ,86, 138 ,Positive,Korea
+P00113,FACEBOOK,U044,music_fan,2025/03/09 06:02:00,Live stream on Facebook tonight! #football #hottrend Join us @sara.kim http://bit.ly/deal, 1457 ,189,165.0,negative,U.K.
+P00114,youtube,U006,john.smith,24-03-2025,    Bạn  đã  thử  sản  phẩm  mới  chưa?  #winter  @tech.guru  Review  ngay  tại  https://example.com/blog      , 2752 , 682 ,255,positive,TH
+P00115,YOUTUBE,U072,foodlover, 2025-02-12 05:31:00 ,big  update:  #vlog  is  now  available.  limited  promo  #noel  @movie_buff  https://youtu.be/xyz123  😂,471,600.0,103,neg,japan
+P00116,TWITTER,U069,music_fan,05/03/2025 10:17,Big update: #food is now available. Limited promo #newproduct @john.smith https://example.com/blog,1463.0,73,344.0,neutral,Thailand
+P00117,FACEBOOK,U028,movie_buff,10-01-2025,  bạn đã thử sản phẩm mới chưa? #blackfriday @ngoc.trinh review ngay tại https://example.com/blog    🔥,978,30,109,NEU,United States
+P00118,Facebook,U001,review.channel,21/01/2025 11:15,  BIG UPDATE: #TIKTOKTREND IS NOW AVAILABLE. LIMITED PROMO #SALE @REVIEW.CHANNEL HTTPS://EXAMPLE.COM/BLOG    ❤️,1561,176,null,mixed,United States
+P00119,TIKTOK,U031,game.stream, 2025-01-16 16:39:00 ,  LIVE STREAM ON TIKTOK TONIGHT! #PROMO #NEWPRODUCT JOIN US @MINH.NGUYEN HTTPS://TIKTOK.COM/@BRANDX   ,735,359,158,neutral,Germany
+P00120,TikTok,U068,lifeoflinh,2025/02/28 09:03:00,    TOP  5  TIPS  FOR  BETTER  RESULTS  WITH  BRAND  X  #MUSIC  @BRANDX_OFFICIAL  MORE  INFO:  HTTPS://BRANDX.COM        💥,3199, 787 ,193,Positive,germany
+P00121, Fb ,U038,lan.tran,2025/02/21 22:49:00,khách hàng nói gì về brand x? #noel #hottrend @music_fan xem chi tiết tại https://brandx.com, 1723 ,248,,negative,VN
+P00122,youtube,U055,movie_buff,06/03/2025 14:24,  check out our new campaign #tiktoktrend on youtube! thanks @sara.kim for sharing the news. http://bit.ly/deal   ,NA,771,390,Neutral,KR
+P00123,YOUTUBE,U035,review.channel,17-02-2025,  CHECK OUT OUR NEW CAMPAIGN #GIVEAWAY ON YOUTUBE! THANKS @REVIEW.CHANNEL FOR SHARING THE NEWS. HTTP://BIT.LY/DEAL   ,1519.0,,416,NEU,South Korea
+P00124,tiktok,U067,music_fan,09-02-2025,BIG UPDATE: #HOTTREND IS NOW AVAILABLE. LIMITED PROMO #GIVEAWAY @FOODLOVER HTTPS://TIKTOK.COM/@BRANDX,2763, 675 ,NA,mixed,U.K.
+P00125,Twitter,U026,hoa.le,29/01/2025 06:35,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #TIKTOKTREND @LAN.TRAN MORE INFO: HTTPS://YOUTU.BE/XYZ123    💥,755,229,170,POS,South Korea
+P00126,FACEBOOK,,hoa.le,2025/02/21 00:08:00,LIVE  STREAM  ON  FACEBOOK  TONIGHT!  #TIKTOKTREND  #WINTER  JOIN  US  @TECH.GURU  HTTPS://EXAMPLE.COM/BLOG  😂,null, 382 ,77,negative,vietnam
+P00127,Instagram,U043,game.stream, 2025-01-26 03:39:00 ,BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #BACKTOSCHOOL @MUSIC_FAN REVIEW NGAY TẠI HTTPS://EXAMPLE.COM/BLOG,351,149,132,POS,DE
+P00128,tiktok,U035,lan.tran,13/01/2025 11:14,  Big update: #noel is now available. Limited promo #sale @foodlover https://example.com/blog    😂,NA,327.0,438,positive,Vietnam
+P00129,facebook,U071,travel.with.me, 2025-01-23 18:42:00 ,  Feeling great today with #travel! Comment your thoughts @movie_buff https://tiktok.com/@brandx    💥,1724.0,319,238,positive,vietnam
+P00130,FACEBOOK,U055,music_fan,07-01-2025,  feeling great today with #travel! comment your thoughts @brandx_official http://bit.ly/deal    😀, 1544 ,67,397,positive,japan
+P00131, insta ,U040,travel.with.me, 2025-02-22 22:33:00 ,    Top  5  tips  for  better  results  with  Brand  X  #travel  @tech.guru  More  info:  http://bit.ly/deal      ,2173,null,26,Neutral,uk
+P00132,FACEBOOK,U023,ngoc.trinh,not_a_date,    KHÁCH  HÀNG  NÓI  GÌ  VỀ  BRAND  X?  #BRANDX  #NEWPRODUCT  @SARA.KIM  XEM  CHI  TIẾT  TẠI  HTTPS://EXAMPLE.COM/BLOG      ,1862,82,48,mixed,thailand
+P00133, twt ,U069,game.stream,2025-01-06 08:38:00 UTC,  big update: #hottrend is now available. limited promo #summer @brandx_official https://brandx.com   ,NA,NA,313.0,pos,USA
+P00134,FB,,chef.tasty,23-03-2025,  feeling great today with #music! comment your thoughts @daily.vlog https://youtu.be/xyz123    👍, 1376 ,313,19,POS,VN
+P00135, yt ,U036,review.channel,27-03-2025,LIVE STREAM ON YOUTUBE TONIGHT! #SALE #HOTTREND JOIN US @REVIEW.CHANNEL HTTP://BIT.LY/DEAL,,749,18.0,Positive,USA
+P00136,tiktok,U034,review.channel,17-02-2025,Check out our new campaign #blackfriday on TikTok! Thanks @brandX_official for sharing the news. https://youtu.be/xyz123 🔥,3913.0,763,466,neutral,USA
+P00137,tiktok,U051,movie_buff,20-03-2025,  Feeling great today with #vlog! Comment your thoughts @movie_buff https://tiktok.com/@brandx   ,4331,331,558,POS,United Kingdom
+P00138,TIKTOK,U026,brandX_official,19/03/2025 03:01,  Top 5 tips for better results with Brand X #winter @john.smith More info: https://tiktok.com/@brandx   ,3916.0,726,280,Negative,Viet Nam
+P00139, insta ,U042,john.smith,04/02/2025 03:55,  BIG UPDATE: #WINTER IS NOW AVAILABLE. LIMITED PROMO #FOOD @MOVIE_BUFF HTTPS://BRANDX.COM   ,1060,32,282,Neutral,uk
+P00140,TWITTER,U053,lan.tran,2025/01/07 07:57:00,  feeling great today with #blackfriday! comment your thoughts @game.stream https://tiktok.com/@brandx   ,665,334,68,NEU,uk
+P00141,tiktok,U011,movie_buff,03/01/2025 08:30,  BIG UPDATE: #TIKTOKTREND IS NOW AVAILABLE. LIMITED PROMO #HOTTREND @JOHN.SMITH HTTPS://TIKTOK.COM/@BRANDX   ,NA,220,null,neg,uk
+P00142,facebook,U038,lifeoflinh, 2025-02-23 07:14:00 ,  BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #TRAVEL @JOHN.SMITH REVIEW NGAY TẠI HTTP://BIT.LY/DEAL    ❤️,1088,140,307,NEU,UK
+P00143,TWITTER,U041,hoa.le,18-01-2025,  Bạn đã thử sản phẩm mới chưa? #newproduct @sara.kim Review ngay tại https://brandx.com    🔥,1645,,250,Positive,TH
+P00144, twt ,U061,daily.vlog,not_a_date,Bạn đã thử sản phẩm mới chưa? #food @daily.vlog Review ngay tại https://brandx.com 🔥,828.0,195,389,pos,JP
+P00145, Tik Tok ,U029,lifeoflinh,2025/02/16 21:30:00,    KHÁCH  HÀNG  NÓI  GÌ  VỀ  BRAND  X?  #PROMO  #BLACKFRIDAY  @CHEF.TASTY  XEM  CHI  TIẾT  TẠI  HTTP://BIT.LY/DEAL      ,1038,728,450,Neutral,korea
+P00146,YOUTUBE,U064,music_fan,01/01/2025 22:33,  CHECK OUT OUR NEW CAMPAIGN #HOTTREND ON YOUTUBE! THANKS @CHEF.TASTY FOR SHARING THE NEWS. HTTPS://TIKTOK.COM/@BRANDX    👍,2742,386, 72 ,negative,uk
+P00147,facebook,,minh.nguyen,29-03-2025,  Top 5 tips for better results with Brand X #food @travel.with.me More info: https://tiktok.com/@brandx    ❤️,410,74,311.0,Negative,vietnam
+P00148,X,U060,hoa.le, 2025-02-28 18:55:00 ,KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #NEWPRODUCT #SUMMER @MOVIE_BUFF XEM CHI TIẾT TẠI HTTPS://YOUTU.BE/XYZ123,309,38,119,negative,Vietnam
+P00149, insta ,U022,minh.nguyen,04/02/2025 11:12,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #TIKTOKTREND @MUSIC_FAN MORE INFO: HTTPS://YOUTU.BE/XYZ123   ,null,55,110.0,neutral,U.K.
+P00150,tiktok,U060,lifeoflinh,2025/01/26 10:18:00,  Check out our new campaign #newproduct on TikTok! Thanks @foodlover for sharing the news. http://bit.ly/deal    👍,1158,651,42,Positive,Thailand
+P00151,tiktok,U020,lifeoflinh,2025/02/06 19:25:00,  BIG UPDATE: #TIKTOKTREND IS NOW AVAILABLE. LIMITED PROMO #FOOTBALL @CHEF.TASTY HTTPS://EXAMPLE.COM/BLOG    😀,2131,395,321.0,unknown,Vietnam
+P00152,TikTok,U048,tech.guru,2025/02/03 20:50:00,    Top  5  tips  for  better  results  with  Brand  X  #hottrend  @foodlover  More  info:  https://brandx.com      ,3186,46, 141 ,Neutral,us
+P00153,TikTok,U044,foodlover,2025/03/03 18:16:00,    Top  5  tips  for  better  results  with  Brand  X  #giveaway  @foodlover  More  info:  https://youtu.be/xyz123      ,2771,484,598,,Germany
+P00154,FB,U035,john.smith,2025-03-27 02:55:00 UTC,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #MUSIC @LAN.TRAN MORE INFO: HTTPS://TIKTOK.COM/@BRANDX   ,738,478,117,Positive,South Korea
+P00155,Facebook,U062,minh.nguyen,15-03-2025,BẠN  ĐÃ  THỬ  SẢN  PHẨM  MỚI  CHƯA?  #NOEL  @SARA.KIM  REVIEW  NGAY  TẠI  HTTP://BIT.LY/DEAL  👍,203, 367 ,null,Positive,U.K.
+P00156,FB,U053,tech.guru,2025/03/22 16:23:00,top 5 tips for better results with brand x #football @lan.tran more info: https://tiktok.com/@brandx 😀,1136,434,314,NEU,United States
+P00157,Instagram,U016,john.smith,24/02/2025 23:44,  BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #HOTTREND @BRANDX_OFFICIAL REVIEW NGAY TẠI HTTPS://EXAMPLE.COM/BLOG   ,933,null,367.0,pos,Germany
+P00158, Fb ,,minh.nguyen,2025/03/30 04:13:00,  KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #BLACKFRIDAY #GIVEAWAY @MOVIE_BUFF XEM CHI TIẾT TẠI HTTPS://BRANDX.COM    💥, 1811 ,38,336,pos,japan
+P00159,YouTube,U042,lifeoflinh,01/02/2025 21:51,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #SUMMER @TECH.GURU MORE INFO: HTTPS://BRANDX.COM   ,88,328,543,NEG,Vietnam
+P00160,tiktok,U033,minh.nguyen,10/01/2025 03:05,feeling  great  today  with  #winter!  comment  your  thoughts  @brandx_official  https://youtu.be/xyz123,1530,546, 370 ,,Thailand
+P00161,YOUTUBE,U037,minh.nguyen,2025/03/25 12:23:00,khách hàng nói gì về brand x? #brandx #noel @foodlover xem chi tiết tại http://bit.ly/deal,524,NA,,Positive,United States
+P00162,TWITTER,U077,game.stream,2025/03/20 20:46:00,  CHECK OUT OUR NEW CAMPAIGN #SALE ON TWITTER! THANKS @LAN.TRAN FOR SHARING THE NEWS. HTTPS://YOUTU.BE/XYZ123   ,2004.0,,4.0,POS,Korea
+P00163, yt ,U029,john.smith,05/02/2025 22:17,  LIVE STREAM ON YOUTUBE TONIGHT! #WINTER #FOOD JOIN US @FOOTBALL_FEVER HTTP://BIT.LY/DEAL   ,1336,620,265,pos,DE
+P00164, Fb ,U060,john.smith,27/01/2025 23:56,feeling great today with #newproduct! comment your thoughts @music_fan https://tiktok.com/@brandx 😂,NA,98,null,NEU,TH
+P00165, twt ,U029,chef.tasty,21/01/2025 08:32,BẠN  ĐÃ  THỬ  SẢN  PHẨM  MỚI  CHƯA?  #SUMMER  @FOODLOVER  REVIEW  NGAY  TẠI  HTTPS://EXAMPLE.COM/BLOG,,120,126,NEU,germany
+P00166, Fb ,U066,music_fan,2025/01/07 09:13:00,TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #GIVEAWAY @MUSIC_FAN MORE INFO: HTTPS://BRANDX.COM,610,135, 86 ,Negative,KR
+P00167,tiktok,U062,travel.with.me, 2025-03-12 05:06:00 ,  BIG UPDATE: #BRANDX IS NOW AVAILABLE. LIMITED PROMO #HOTTREND @MOVIE_BUFF HTTPS://TIKTOK.COM/@BRANDX   ,897,45.0,258,neutral,Japan
+P00168,YouTube,U001,lifeoflinh,24/01/2025 15:15,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #SUMMER @GAME.STREAM MORE INFO: HTTPS://EXAMPLE.COM/BLOG    ❤️,3370,606,301,Positive,vietnam
+P00169,YouTube,U044,ngoc.trinh,13/01/2025 14:57,  BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #FOOD @BRANDX_OFFICIAL REVIEW NGAY TẠI HTTPS://EXAMPLE.COM/BLOG    ❤️,1000,582,291,Negative,Thailand
+P00170,twitter,U056,game.stream,2025/01/03 10:28:00,Big update: #summer is now available. Limited promo #winter @review.channel https://youtu.be/xyz123,274, 485 ,237,,vietnam
+P00171,X,U016,daily.vlog,09-01-2025,    khách  hàng  nói  gì  về  brand  x?  #travel  #promo  @foodlover  xem  chi  tiết  tại  https://tiktok.com/@brandx        😀,612,366.0,302,Neutral,United States
+P00172,youtube,U067,lifeoflinh,2025/01/27 12:14:00,  top 5 tips for better results with brand x #tiktoktrend @lifeoflinh more info: https://tiktok.com/@brandx   ,2442,601,585,neutral,Vietnam
+P00173,Twitter,U013,travel.with.me,28/01/2025 12:05,  BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #PROMO @NGOC.TRINH REVIEW NGAY TẠI HTTPS://EXAMPLE.COM/BLOG   ,NA,209,,Neutral,U.S.A
+P00174, yt ,U054,lan.tran,2025/01/07 08:04:00,KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #VLOG #BACKTOSCHOOL @CHEF.TASTY XEM CHI TIẾT TẠI HTTPS://EXAMPLE.COM/BLOG,1512.0,394,54.0,NEU,us
+P00175,YOUTUBE,U020,ngoc.trinh,21/02/2025 19:48,    Bạn  đã  thử  sản  phẩm  mới  chưa?  #vlog  @john.smith  Review  ngay  tại  https://tiktok.com/@brandx        💥,4137,,557.0,neg,Korea
+P00176,IG,U040,sara.kim,20/02/2025 18:55,  feeling great today with #sale! comment your thoughts @music_fan http://bit.ly/deal    🔥,1330,,334,neutral,VN
+P00177,FB,U005,lan.tran,25-03-2025,  KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #BACKTOSCHOOL #VLOG @HOA.LE XEM CHI TIẾT TẠI HTTPS://TIKTOK.COM/@BRANDX    👍,2127,38.0,74,pos,U.K.
+P00178, Fb ,U037,travel.with.me,03/03/2025 07:14,  big update: #food is now available. limited promo #giveaway @minh.nguyen https://youtu.be/xyz123   , 2028 , 108 ,32,neg,KR
+P00179, Fb ,U080,sara.kim,28-03-2025,    CHECK  OUT  OUR  NEW  CAMPAIGN  #PROMO  ON  FACEBOOK!  THANKS  @TECH.GURU  FOR  SHARING  THE  NEWS.  HTTPS://YOUTU.BE/XYZ123        🔥,2486.0,389, 139 ,neg,KR
+P00180,twitter,U020,chef.tasty,25/02/2025 00:53,TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #PROMO @MUSIC_FAN MORE INFO: HTTPS://YOUTU.BE/XYZ123 😂,NA,NA,195,NEG,uk
+P00181,TikTok,U041,daily.vlog,2025/01/23 00:14:00,FEELING GREAT TODAY WITH #FOOTBALL! COMMENT YOUR THOUGHTS @LAN.TRAN HTTPS://BRANDX.COM,null,52,410,positive,korea
+P00182,Instagram,U035,daily.vlog,10-03-2025,  Khách hàng nói gì về Brand X? #BrandX #travel @sara.kim Xem chi tiết tại https://tiktok.com/@brandx    😂,512.0,292,229,neutral,germany
+P00183, Fb ,U005,sara.kim,09/02/2025 01:25,  Top 5 tips for better results with Brand X #food @minh.nguyen More info: https://example.com/blog    👍, 2268 ,NA,304,NEU,South Korea
+P00184,FB,U070,lifeoflinh,2025/02/23 16:32:00,  LIVE STREAM ON FACEBOOK TONIGHT! #HOTTREND #PROMO JOIN US @LAN.TRAN HTTP://BIT.LY/DEAL    💥,804,488,,pos,Thailand
+P00185,Instagram,U004,tech.guru,09-01-2025,khách hàng nói gì về brand x? #promo #noel @football_fever xem chi tiết tại https://brandx.com,1830.0,393.0,140,neutral,Viet Nam
+P00186,Instagram,U059,music_fan,06-03-2025,  LIVE STREAM ON INSTAGRAM TONIGHT! #PROMO #BRANDX JOIN US @GAME.STREAM HTTPS://EXAMPLE.COM/BLOG   , 439 ,14,112,pos,uk
+P00187,tiktok,U029,travel.with.me,20-02-2025,    KHÁCH  HÀNG  NÓI  GÌ  VỀ  BRAND  X?  #NOEL  #TIKTOKTREND  @JOHN.SMITH  XEM  CHI  TIẾT  TẠI  HTTPS://YOUTU.BE/XYZ123        🔥,3628,657,206,mixed,japan
+P00188,Twitter,U020,john.smith, 2025-02-18 08:49:00 ,Check  out  our  new  campaign  #music  on  Twitter!  Thanks  @tech.guru  for  sharing  the  news.  https://brandx.com,517,NA,149,neutral,USA
+P00189,Twitter,,review.channel,2025/02/09 01:58:00,BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #FOOD @BRANDX_OFFICIAL REVIEW NGAY TẠI HTTPS://TIKTOK.COM/@BRANDX 😂,1481, 449 ,115,Neutral,uk
+P00190,TIKTOK,U005,ngoc.trinh,2025/03/10 17:43:00,    Top  5  tips  for  better  results  with  Brand  X  #promo  @football_fever  More  info:  http://bit.ly/deal        💥,3182,NA,20,Positive,Thailand
+P00191,IG,U056,hoa.le, 2025-01-25 05:24:00 ,  BIG UPDATE: #WINTER IS NOW AVAILABLE. LIMITED PROMO #BRANDX @MINH.NGUYEN HTTPS://BRANDX.COM    ❤️, 489 ,138,null,pos,Korea
+P00192,FB,U061,ngoc.trinh,25-03-2025,  LIVE STREAM ON FACEBOOK TONIGHT! #BACKTOSCHOOL #BRANDX JOIN US @LIFEOFLINH HTTPS://EXAMPLE.COM/BLOG    ❤️,370,429.0,217,pos,USA
+P00193,youtube,U041,football_fever,31/01/2025 18:21,  Top 5 tips for better results with Brand X #food @daily.vlog More info: http://bit.ly/deal   ,1135,45,73,Positive,TH
+P00194,TWITTER,U073,minh.nguyen,2025-03-12 06:06:00 UTC,  bạn đã thử sản phẩm mới chưa? #backtoschool @lifeoflinh review ngay tại https://example.com/blog   ,1590,,null,POS,TH
+P00195,TWITTER,U003,john.smith, 2025-02-18 08:14:00 ,feeling great today with #music! comment your thoughts @daily.vlog http://bit.ly/deal 👍,1907,366,279.0,Neutral,germany
+P00196,X,U068,,31/03/2025 21:26,    KHÁCH  HÀNG  NÓI  GÌ  VỀ  BRAND  X?  #BACKTOSCHOOL  #GIVEAWAY  @NGOC.TRINH  XEM  CHI  TIẾT  TẠI  HTTPS://BRANDX.COM        ❤️,1591,88,343,,Korea
+P00197, Fb ,U075,tech.guru,31/03/2025 16:37,    Live  stream  on  Facebook  tonight!  #BrandX  #promo  Join  us  @travel.with.me  https://brandx.com        💥,910,327,52,Negative,uk
+P00198,Instagram,U025,foodlover,04/03/2025 16:53,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #PROMO @FOODLOVER MORE INFO: HTTPS://YOUTU.BE/XYZ123   ,2315,55,250,,U.S.A
+P00199, Fb ,U032,travel.with.me,2025/02/23 03:51:00,  bạn đã thử sản phẩm mới chưa? #blackfriday @hoa.le review ngay tại https://example.com/blog    ❤️,null,195,281,POS,South Korea
+P00200,FACEBOOK,U047,review.channel, 2025-03-06 04:10:00 ,KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #FOOD #GIVEAWAY @FOOTBALL_FEVER XEM CHI TIẾT TẠI HTTPS://EXAMPLE.COM/BLOG,2368,null,246,Negative,South Korea
+P00201,Instagram,U037,ngoc.trinh, 2025-02-28 09:02:00 ,KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #MUSIC #PROMO @TRAVEL.WITH.ME XEM CHI TIẾT TẠI HTTP://BIT.LY/DEAL 😀,1472,209,343,unknown,Japan
+P00202,FB,U042,music_fan,09/03/2025 19:57,  Feeling great today with #summer! Comment your thoughts @football_fever https://youtu.be/xyz123   ,,,142,POS,VN
+P00203,Twitter,U036,sara.kim,2025-01-18 10:23:00 UTC,  Check out our new campaign #travel on Twitter! Thanks @brandX_official for sharing the news. https://example.com/blog    😀,1595,209,161,positive,DE
+P00204, twt ,U078,travel.with.me,17-02-2025,    Khách  hàng  nói  gì  về  Brand  X?  #football  #promo  @game.stream  Xem  chi  tiết  tại  https://brandx.com      ,721,196,45,Neutral,DE
+P00205,TIKTOK,U022,ngoc.trinh,2025/01/13 02:49:00,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #BLACKFRIDAY @LAN.TRAN MORE INFO: HTTPS://TIKTOK.COM/@BRANDX    😂,3662,46,569,POS,Germany
+P00206,instagram,U033,tech.guru,2025/03/17 01:12:00,    big  update:  #giveaway  is  now  available.  limited  promo  #food  @hoa.le  https://example.com/blog      ,839,307,337,Positive,USA
+P00207,instagram,U049,tech.guru,27/03/2025 19:11,Feeling great today with #food! Comment your thoughts @hoa.le https://youtu.be/xyz123,422,400,329,Positive,Vietnam
+P00208,X,U040,lan.tran, 2025-02-06 21:41:00 ,  KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #MUSIC #VLOG @GAME.STREAM XEM CHI TIẾT TẠI HTTPS://BRANDX.COM    😀,2145.0,null,94,Neutral,vietnam
+P00209,Facebook,U049,travel.with.me,2025/02/22 13:07:00,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #SALE @BRANDX_OFFICIAL MORE INFO: HTTPS://TIKTOK.COM/@BRANDX    🔥,705,174, 375 ,pos,South Korea
+P00210,FACEBOOK,U051,hoa.le, 2025-02-23 17:38:00 ,KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #NOEL #FOOD @TECH.GURU XEM CHI TIẾT TẠI HTTPS://YOUTU.BE/XYZ123 👍,,463.0,181,Positive,VN
+P00211,YOUTUBE,U071,john.smith,2025/02/09 08:01:00,    BẠN  ĐÃ  THỬ  SẢN  PHẨM  MỚI  CHƯA?  #WINTER  @MUSIC_FAN  REVIEW  NGAY  TẠI  HTTPS://TIKTOK.COM/@BRANDX        🔥,4562.0,357,,Positive,JP
+P00212,YouTube,,chef.tasty,24-02-2025,  BIG UPDATE: #NOEL IS NOW AVAILABLE. LIMITED PROMO #FOOD @TRAVEL.WITH.ME HTTPS://TIKTOK.COM/@BRANDX    🔥,618,572.0,12,Positive,Korea
+P00213,instagram,U008,travel.with.me,2025/03/18 10:12:00,    Feeling  great  today  with  #giveaway!  Comment  your  thoughts  @lan.tran  http://bit.ly/deal        ❤️,,235.0,281,Negative,U.K.
+P00214, twt ,U079,tech.guru,28-01-2025,  bạn đã thử sản phẩm mới chưa? #noel @travel.with.me review ngay tại https://example.com/blog   ,1390.0,376.0,199,neutral,VN
+P00215,YouTube,U050,football_fever,04/02/2025 15:52,KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #WINTER #TIKTOKTREND @DAILY.VLOG XEM CHI TIẾT TẠI HTTPS://TIKTOK.COM/@BRANDX ❤️,3933,50,null,NEG,JP
+P00216,YouTube,U061,ngoc.trinh,03-01-2025,  BIG UPDATE: #BLACKFRIDAY IS NOW AVAILABLE. LIMITED PROMO #SALE @MINH.NGUYEN HTTPS://YOUTU.BE/XYZ123   ,601, 703 ,252,pos,VN
+P00217, twt ,U053,,07/01/2025 10:13,Big update: #tiktoktrend is now available. Limited promo #promo @game.stream https://brandx.com 😀,2319,333.0,154.0,Positive,U.K.
+P00218, Tik Tok ,U068,daily.vlog,2025/01/16 01:49:00,TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #MUSIC @GAME.STREAM MORE INFO: HTTPS://BRANDX.COM,143,656,185,pos,U.S.A
+P00219,YOUTUBE,U022,hoa.le,14-02-2025,  FEELING GREAT TODAY WITH #TRAVEL! COMMENT YOUR THOUGHTS @MINH.NGUYEN HTTPS://EXAMPLE.COM/BLOG    😂,209.0,727,505.0,,U.S.A
+P00220,youtube,U003,ngoc.trinh,2025/02/14 04:04:00,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #NEWPRODUCT @MINH.NGUYEN MORE INFO: HTTPS://YOUTU.BE/XYZ123    👍,null,276,67,unknown,vietnam
+P00221,Instagram,U070,music_fan,17-03-2025,  Check out our new campaign #music on Instagram! Thanks @travel.with.me for sharing the news. http://bit.ly/deal   ,399,117,275,NEU,Japan
+P00222,TIKTOK,U056,john.smith, 2025-01-07 03:32:00 ,  LIVE STREAM ON TIKTOK TONIGHT! #FOOTBALL #BRANDX JOIN US @BRANDX_OFFICIAL HTTPS://YOUTU.BE/XYZ123   ,4349,15,385,Positive,South Korea
+P00223, Fb ,U014,chef.tasty,27/02/2025 02:34,Feeling great today with #winter! Comment your thoughts @daily.vlog http://bit.ly/deal 😀,74,150,378,POS,Vietnam
+P00224,youtube,U072,john.smith, 2025-03-04 23:07:00 ,  feeling great today with #giveaway! comment your thoughts @hoa.le http://bit.ly/deal    ❤️,2947,510,null,POS,United States
+P00225,twitter,U041,brandX_official,2025/02/26 11:10:00,  BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #FOOD @BRANDX_OFFICIAL REVIEW NGAY TẠI HTTPS://EXAMPLE.COM/BLOG    😀,NA,,215,POS,UK
+P00226,Twitter,U034,tech.guru,2025/03/02 01:10:00,Top  5  tips  for  better  results  with  Brand  X  #sale  @brandX_official  More  info:  http://bit.ly/deal,2073,170.0,null,neutral,germany
+P00227, Tik Tok ,U019,sara.kim,02-03-2025,  LIVE STREAM ON TIKTOK TONIGHT! #WINTER #TIKTOKTREND JOIN US @REVIEW.CHANNEL HTTP://BIT.LY/DEAL    👍,,391,502,Negative,Japan
+P00228,youtube,U011,review.channel,03/02/2025 09:18,  KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #WINTER #GIVEAWAY @SARA.KIM XEM CHI TIẾT TẠI HTTPS://BRANDX.COM    🔥,2805,783,120,unknown,japan
+P00229,Instagram,U019,chef.tasty, 2025-01-21 07:07:00 ,LIVE STREAM ON INSTAGRAM TONIGHT! #VLOG #GIVEAWAY JOIN US @GAME.STREAM HTTPS://TIKTOK.COM/@BRANDX 😂,2029,162,46,positive,vietnam
+P00230,IG,U024,chef.tasty,2025-02-27 03:39:00 UTC,  Khách hàng nói gì về Brand X? #noel #BrandX @john.smith Xem chi tiết tại https://youtu.be/xyz123   ,null,167,221,NEU,Japan
+P00231,FB,U055,chef.tasty,21/03/2025 17:33,  BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #TIKTOKTREND @LIFEOFLINH REVIEW NGAY TẠI HTTPS://BRANDX.COM    ❤️,1303,,326,neg,DE
+P00232,YOUTUBE,U057,brandX_official,2025/03/09 12:57:00,  LIVE STREAM ON YOUTUBE TONIGHT! #NEWPRODUCT #TIKTOKTREND JOIN US @TECH.GURU HTTP://BIT.LY/DEAL    🔥,2629,417,null,NEG,South Korea
+P00233,YOUTUBE,U045,minh.nguyen,2025/03/04 13:19:00,Top 5 tips for better results with Brand X #noel @john.smith More info: https://tiktok.com/@brandx,3603,72,364,NEU,us
+P00234,youtube,U057,daily.vlog,2025/02/23 20:01:00,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #HOTTREND @JOHN.SMITH MORE INFO: HTTPS://EXAMPLE.COM/BLOG    😀,1296,611,NA,POS,korea
+P00235,tiktok,U053,chef.tasty,12-03-2025,  KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #SALE #TIKTOKTREND @REVIEW.CHANNEL XEM CHI TIẾT TẠI HTTPS://TIKTOK.COM/@BRANDX   ,1954,222,335,positive,korea
+P00236,IG,U070,music_fan,25/03/2025 22:51,  CHECK OUT OUR NEW CAMPAIGN #BRANDX ON INSTAGRAM! THANKS @NGOC.TRINH FOR SHARING THE NEWS. HTTPS://BRANDX.COM    🔥,1277,207,,NEG,Korea
+P00237,TIKTOK,U006,foodlover,2025/03/15 18:55:00,  BIG UPDATE: #SALE IS NOW AVAILABLE. LIMITED PROMO #BLACKFRIDAY @FOOTBALL_FEVER HTTPS://TIKTOK.COM/@BRANDX   ,2127,224,289,unknown,JP
+P00238,facebook,U017,music_fan,10/01/2025 07:12,BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #SUMMER @DAILY.VLOG REVIEW NGAY TẠI HTTP://BIT.LY/DEAL 😀,512,141,121,pos,germany
+P00239,TIKTOK,U056,foodlover,12/01/2025 07:50,feeling great today with #summer! comment your thoughts @game.stream https://tiktok.com/@brandx,4804,NA,84,neutral,JP
+P00240,tiktok,U076,tech.guru,23/02/2025 04:04,LIVE STREAM ON TIKTOK TONIGHT! #SALE #WINTER JOIN US @HOA.LE HTTPS://BRANDX.COM,1978,666,502,NEG,TH
+P00241,Instagram,U073,foodlover,2025/01/18 16:05:00,  LIVE STREAM ON INSTAGRAM TONIGHT! #SUMMER #FOOTBALL JOIN US @LAN.TRAN HTTPS://EXAMPLE.COM/BLOG    ❤️,1444, 459 ,47,positive,VN
+P00242,YOUTUBE,U018,movie_buff,22/01/2025 01:53,  Big update: #winter is now available. Limited promo #backtoschool @minh.nguyen https://tiktok.com/@brandx    ❤️,2728,610,,unknown,us
+P00243,FB,U077,foodlover,not_a_date,    Big  update:  #blackfriday  is  now  available.  Limited  promo  #vlog  @john.smith  https://youtu.be/xyz123        ❤️,431,448,342,positive,us
+P00244,Facebook,U050,review.channel,2025/03/27 21:56:00,  Big update: #music is now available. Limited promo #noel @daily.vlog https://example.com/blog   ,1871,205,217,neutral,us
+P00245,twitter,U027,movie_buff,02-01-2025,  FEELING GREAT TODAY WITH #VLOG! COMMENT YOUR THOUGHTS @MINH.NGUYEN HTTPS://YOUTU.BE/XYZ123    😂, 736 ,117,238,NEU,germany
+P00246,YOUTUBE,,review.channel,07-03-2025,LIVE  STREAM  ON  YOUTUBE  TONIGHT!  #NEWPRODUCT  #GIVEAWAY  JOIN  US  @CHEF.TASTY  HTTP://BIT.LY/DEAL,794,8.0,357,negative,TH
+P00247,instagram,,foodlover,2025/01/20 03:01:00,BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #FOOD @MUSIC_FAN REVIEW NGAY TẠI HTTPS://BRANDX.COM,110,114,188,Positive,JP
+P00248,YouTube,U043,football_fever,12/01/2025 00:52,LIVE STREAM ON YOUTUBE TONIGHT! #NOEL #BLACKFRIDAY JOIN US @FOOTBALL_FEVER HTTPS://TIKTOK.COM/@BRANDX 💥,279,715, 218 ,POS,Japan
+P00249,X,U019,john.smith,11/01/2025 10:19,LIVE  STREAM  ON  TWITTER  TONIGHT!  #BACKTOSCHOOL  #NOEL  JOIN  US  @MINH.NGUYEN  HTTP://BIT.LY/DEAL,1069,188,332,Negative,vietnam
+P00250,TWITTER,U051,travel.with.me,24/01/2025 19:27,  bạn đã thử sản phẩm mới chưa? #giveaway @game.stream review ngay tại http://bit.ly/deal    💥,NA,200,null,NEG,Thailand
+P00251, Tik Tok ,U055,music_fan,09/03/2025 18:59,    BIG  UPDATE:  #VLOG  IS  NOW  AVAILABLE.  LIMITED  PROMO  #FOOD  @GAME.STREAM  HTTPS://EXAMPLE.COM/BLOG        ❤️,NA,,143,Positive,USA
+P00252,youtube,U048,tech.guru, 2025-01-17 21:57:00 ,  live stream on youtube tonight! #newproduct #vlog join us @john.smith https://youtu.be/xyz123    ❤️,4605.0,290,NA,pos,Germany
+P00253,TIKTOK,U005,music_fan,2025/03/19 23:13:00,  FEELING GREAT TODAY WITH #SUMMER! COMMENT YOUR THOUGHTS @TRAVEL.WITH.ME HTTPS://TIKTOK.COM/@BRANDX   ,2581,,NA,Positive,United States
+P00254, yt ,U016,hoa.le,2025/01/28 09:59:00,Feeling great today with #newproduct! Comment your thoughts @lan.tran https://brandx.com 💥, 3875 ,null,79,NEU,vietnam
+P00255,twitter,U048,sara.kim,27/02/2025 04:50,    LIVE  STREAM  ON  TWITTER  TONIGHT!  #SUMMER  #BLACKFRIDAY  JOIN  US  @HOA.LE  HTTPS://BRANDX.COM      ,297,0.0,281,POS,DE
+P00256,instagram,U073,john.smith,11/02/2025 17:46,    live  stream  on  instagram  tonight!  #tiktoktrend  #vlog  join  us  @review.channel  https://youtu.be/xyz123        😂,695.0,408,147,neutral,korea
+P00257,FB,U004,review.channel,03-02-2025,  LIVE STREAM ON FACEBOOK TONIGHT! #FOOD #HOTTREND JOIN US @LAN.TRAN HTTPS://EXAMPLE.COM/BLOG    😂,22,128,50,,Viet Nam
+P00258,youtube,U050,travel.with.me,11-03-2025,  Khách hàng nói gì về Brand X? #summer #tiktoktrend @ngoc.trinh Xem chi tiết tại https://brandx.com   ,,624,,positive,Korea
+P00259, yt ,U061,daily.vlog,07/02/2025 02:49,  top 5 tips for better results with brand x #noel @minh.nguyen more info: https://tiktok.com/@brandx   ,null,292.0,138,positive,Germany
+P00260, Fb ,U029,game.stream,2025/02/24 15:54:00,KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #TRAVEL #NOEL @FOODLOVER XEM CHI TIẾT TẠI HTTPS://BRANDX.COM 😀,984,239.0,302,POS,South Korea
+P00261, insta ,U060,daily.vlog,2025/01/06 14:33:00,khách hàng nói gì về brand x? #vlog #travel @daily.vlog xem chi tiết tại https://example.com/blog 💥,,96,35,neutral,Viet Nam
+P00262,tiktok,U043,lan.tran,24/01/2025 03:53,  bạn đã thử sản phẩm mới chưa? #sale @sara.kim review ngay tại https://example.com/blog    👍,3763,329,,NEG,UK
+P00263, Tik Tok ,U023,football_fever,2025-01-07 13:55:00 UTC,  bạn đã thử sản phẩm mới chưa? #newproduct @ngoc.trinh review ngay tại https://example.com/blog    👍,,434,418,neutral,TH
+P00264, insta ,U019,review.channel,02-01-2025,  khách hàng nói gì về brand x? #vlog #winter @football_fever xem chi tiết tại https://youtu.be/xyz123   ,2073,234,,Positive,Vietnam
+P00265, Tik Tok ,U021,game.stream,17/02/2025 05:10,  Top 5 tips for better results with Brand X #sale @game.stream More info: https://youtu.be/xyz123    👍, 603 ,71,230.0,POS,Germany
+P00266,TIKTOK,U001,music_fan,2025/01/28 03:44:00,Big update: #tiktoktrend is now available. Limited promo #backtoschool @football_fever https://tiktok.com/@brandx,1538,196,398,POS,USA
+P00267,TikTok,U017,movie_buff,2025/01/05 02:55:00,  LIVE STREAM ON TIKTOK TONIGHT! #FOOD #FOOTBALL JOIN US @REVIEW.CHANNEL HTTPS://EXAMPLE.COM/BLOG    🔥,2222,543,311,NEU,DE
+P00268,instagram,U044,brandX_official,21-02-2025,  top 5 tips for better results with brand x #winter @movie_buff more info: https://brandx.com   ,,273,148.0,negative,United Kingdom
+P00269,Facebook,U036,john.smith,19/02/2025 04:20,    Top  5  tips  for  better  results  with  Brand  X  #music  @lan.tran  More  info:  http://bit.ly/deal      ,486,406,52,Positive,germany
+P00270,YOUTUBE,U061,travel.with.me,05/03/2025 16:28,  live stream on youtube tonight! #travel #brandx join us @brandx_official https://brandx.com   ,1415,73, 347 ,unknown,U.K.
+P00271,Instagram,U069,minh.nguyen,2025/01/06 21:14:00,Bạn đã thử sản phẩm mới chưa? #travel @minh.nguyen Review ngay tại https://example.com/blog ❤️,14,NA, 132 ,negative,Thailand
+P00272,twitter,U016,brandX_official,2025-01-03 20:16:00 UTC,  Big update: #vlog is now available. Limited promo #music @travel.with.me http://bit.ly/deal   ,2267,55,1,Positive,uk
+P00273,youtube,U048,sara.kim,2025/02/01 06:19:00,  live stream on youtube tonight! #football #backtoschool join us @review.channel https://example.com/blog   ,1942,NA,403,pos,KR
+P00274, insta ,,chef.tasty,2025-01-16 23:25:00 UTC,Big update: #music is now available. Limited promo #football @hoa.le https://tiktok.com/@brandx 👍,452,51,46,Positive,uk
+P00275,IG,U079,lan.tran,04/03/2025 10:10,FEELING GREAT TODAY WITH #SUMMER! COMMENT YOUR THOUGHTS @LAN.TRAN HTTPS://TIKTOK.COM/@BRANDX 😀,1614,,231,unknown,Vietnam
+P00276,youtube,U054,movie_buff,14-02-2025,  BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #SUMMER @TRAVEL.WITH.ME REVIEW NGAY TẠI HTTPS://YOUTU.BE/XYZ123   ,2410,267,268,NEG,United States
+P00277,tiktok,U010,lan.tran,17/02/2025 06:40,TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #BRANDX @MUSIC_FAN MORE INFO: HTTPS://YOUTU.BE/XYZ123 ❤️, 733 ,,NA,neutral,us
+P00278,Facebook,U004,sara.kim,14-03-2025,    Big  update:  #BrandX  is  now  available.  Limited  promo  #newproduct  @music_fan  https://brandx.com      ,,204,116,pos,DE
+P00279,IG,U065,lan.tran,2025/01/21 17:07:00,top 5 tips for better results with brand x #giveaway @foodlover more info: https://tiktok.com/@brandx,635,18,35,Neutral,Germany
+P00280,TIKTOK,U037,music_fan,25-01-2025,  FEELING GREAT TODAY WITH #TIKTOKTREND! COMMENT YOUR THOUGHTS @SARA.KIM HTTP://BIT.LY/DEAL    😀,1528,518,247,positive,DE
+P00281,TWITTER,U060,sara.kim,15/02/2025 10:21,    Big  update:  #BrandX  is  now  available.  Limited  promo  #food  @chef.tasty  https://brandx.com      ,1024,NA,94,positive,korea
+P00282,instagram,U027,movie_buff,23/03/2025 12:36,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #VLOG @FOOTBALL_FEVER MORE INFO: HTTP://BIT.LY/DEAL    😀,708,387,285,neutral,us
+P00283,IG,U052,movie_buff,2025/03/03 17:09:00,  Check out our new campaign #noel on Instagram! Thanks @daily.vlog for sharing the news. https://example.com/blog   ,286,360,146.0,NEG,UK
+P00284,YouTube,U078,, 2025-03-10 16:40:00 ,khách hàng nói gì về brand x? #noel #brandx @travel.with.me xem chi tiết tại https://youtu.be/xyz123,482,797,454,NEG,Thailand
+P00285,Instagram,U049,john.smith,16-03-2025,check out our new campaign #football on instagram! thanks @john.smith for sharing the news. http://bit.ly/deal,,257.0,124,Neutral,JP
+P00286,facebook,U063,music_fan,2025-01-29 06:21:00 UTC,    top  5  tips  for  better  results  with  brand  x  #food  @football_fever  more  info:  http://bit.ly/deal        💥,1416,234.0,75,Positive,U.K.
+P00287, Tik Tok ,U063,,05/03/2025 06:30,  BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #NEWPRODUCT @MUSIC_FAN REVIEW NGAY TẠI HTTPS://BRANDX.COM   ,,36,56,pos,United Kingdom
+P00288,YOUTUBE,U062,foodlover,02/03/2025 01:40,  KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #WINTER #HOTTREND @MINH.NGUYEN XEM CHI TIẾT TẠI HTTPS://TIKTOK.COM/@BRANDX   ,1365,361,561,Neutral,United States
+P00289,TikTok,U033,travel.with.me,28/02/2025 20:50,  feeling great today with #noel! comment your thoughts @sara.kim https://example.com/blog   , 2067 ,null,360,pos,United States
+P00290,TWITTER,U078,football_fever,17-02-2025,  Live stream on Twitter tonight! #music #blackfriday Join us @music_fan https://tiktok.com/@brandx   ,null, 428 ,314,mixed,Thailand
+P00291, Tik Tok ,U027,foodlover,2025-03-08 08:47:00 UTC,  bạn đã thử sản phẩm mới chưa? #food @music_fan review ngay tại https://brandx.com   ,318,174,38,pos,Viet Nam
+P00292,Twitter,U076,music_fan,18-02-2025,    Top  5  tips  for  better  results  with  Brand  X  #giveaway  @review.channel  More  info:  https://tiktok.com/@brandx        ❤️,1775,98, 91 ,negative,Germany
+P00293,TIKTOK,U059,,2025-01-30 23:37:00 UTC,feeling great today with #hottrend! comment your thoughts @lifeoflinh http://bit.ly/deal,724,320.0,,positive,germany
+P00294,TWITTER,U005,football_fever, 2025-03-05 10:10:00 ,Feeling great today with #sale! Comment your thoughts @john.smith https://tiktok.com/@brandx,184,472,40,unknown,South Korea
+P00295, insta ,U055,daily.vlog,2025/01/16 09:59:00,  KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #NEWPRODUCT #VLOG @BRANDX_OFFICIAL XEM CHI TIẾT TẠI HTTPS://TIKTOK.COM/@BRANDX    👍,271,424,157,Negative,germany
+P00296, twt ,U070,tech.guru,28/02/2025 23:48,Top  5  tips  for  better  results  with  Brand  X  #vlog  @john.smith  More  info:  https://youtu.be/xyz123  ❤️,1502,,196,negative,Germany
+P00297,FB,U020,brandX_official,2025/01/15 14:28:00,  big update: #blackfriday is now available. limited promo #travel @lan.tran http://bit.ly/deal    😀,2188, 240 ,183,neg,Thailand
+P00298,instagram,U034,game.stream,2025/02/21 04:45:00,KHÁCH  HÀNG  NÓI  GÌ  VỀ  BRAND  X?  #MUSIC  #SALE  @FOODLOVER  XEM  CHI  TIẾT  TẠI  HTTPS://EXAMPLE.COM/BLOG,1891,233,334,,japan
+P00299,instagram,U060,music_fan,08/03/2025 00:13,  bạn đã thử sản phẩm mới chưa? #summer @review.channel review ngay tại http://bit.ly/deal   ,1436,49,305,Negative,United States
+P00300,YouTube,U047,minh.nguyen,not_a_date,KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #TRAVEL #SUMMER @GAME.STREAM XEM CHI TIẾT TẠI HTTPS://BRANDX.COM,315.0,710.0,48,neutral,Korea
+P00301,tiktok,U053,,2025/03/21 02:45:00,  Live stream on TikTok tonight! #giveaway #food Join us @lan.tran https://youtu.be/xyz123    ❤️,3046,,591,Negative,japan
+P00302, yt ,U004,tech.guru,2025/01/29 07:36:00,  bạn đã thử sản phẩm mới chưa? #noel @tech.guru review ngay tại https://example.com/blog   ,917.0,187,371,negative,Vietnam
+P00303, Tik Tok ,U002,ngoc.trinh,2025/02/27 08:51:00,    khách  hàng  nói  gì  về  brand  x?  #winter  #blackfriday  @john.smith  xem  chi  tiết  tại  http://bit.ly/deal        😀,2425,457,283,NEU,Japan
+P00304,Facebook,U044,daily.vlog, 2025-01-05 05:26:00 ,  Live stream on Facebook tonight! #giveaway #noel Join us @football_fever https://example.com/blog   ,null,391,378,NEU,germany
+P00305,YOUTUBE,U039,hoa.le,2025/03/01 14:44:00,  feeling great today with #food! comment your thoughts @sara.kim https://example.com/blog    💥,3333,2,520,POS,TH
+P00306,YouTube,U012,lan.tran, 2025-03-15 14:35:00 ,  BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #TIKTOKTREND @LIFEOFLINH REVIEW NGAY TẠI HTTPS://BRANDX.COM    🔥,2871,167.0,NA,NEG,DE
+P00307,tiktok,U025,movie_buff,23/03/2025 23:18,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #VLOG @SARA.KIM MORE INFO: HTTPS://BRANDX.COM    🔥,1270,93,99,NEG,USA
+P00308,X,U004,daily.vlog,2025/01/05 17:14:00,  top 5 tips for better results with brand x #newproduct @brandx_official more info: https://brandx.com    👍,289,190.0,261,negative,United Kingdom
+P00309, insta ,U017,football_fever, 2025-03-28 18:53:00 ,  top 5 tips for better results with brand x #newproduct @minh.nguyen more info: http://bit.ly/deal   ,NA,444,282,unknown,Viet Nam
+P00310,TWITTER,U026,chef.tasty,16/03/2025 23:27,  feeling great today with #newproduct! comment your thoughts @brandx_official https://brandx.com   ,2055,398,290,Neutral,DE
+P00311,X,U014,game.stream,08/01/2025 12:12,    BIG  UPDATE:  #TRAVEL  IS  NOW  AVAILABLE.  LIMITED  PROMO  #PROMO  @CHEF.TASTY  HTTPS://EXAMPLE.COM/BLOG      ,2461,329.0,9,NEU,Japan
+P00312,youtube,U033,minh.nguyen,2025/02/08 22:24:00,BIG UPDATE: #NEWPRODUCT IS NOW AVAILABLE. LIMITED PROMO #FOOTBALL @MOVIE_BUFF HTTPS://TIKTOK.COM/@BRANDX 🔥,110,58.0,207,Neutral,korea
+P00313,twitter,U021,daily.vlog,07-01-2025,    Live  stream  on  Twitter  tonight!  #summer  #BrandX  Join  us  @lan.tran  http://bit.ly/deal        😂,2446,394,351,POS,korea
+P00314,youtube,U038,chef.tasty,2025/02/13 18:00:00,LIVE STREAM ON YOUTUBE TONIGHT! #TIKTOKTREND #WINTER JOIN US @BRANDX_OFFICIAL HTTPS://TIKTOK.COM/@BRANDX,2382.0,609,172,positive,U.K.
+P00315, insta ,U009,foodlover,2025/01/31 21:57:00,  BIG UPDATE: #SALE IS NOW AVAILABLE. LIMITED PROMO #NEWPRODUCT @NGOC.TRINH HTTP://BIT.LY/DEAL   ,637,112,null,pos,United Kingdom
+P00316,YouTube,U059,sara.kim,2025/01/27 05:30:00,  Khách hàng nói gì về Brand X? #football #music @ngoc.trinh Xem chi tiết tại https://youtu.be/xyz123    🔥, 674 ,354.0,98,mixed,DE
+P00317, yt ,U077,,15-02-2025,  KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #TIKTOKTREND #BACKTOSCHOOL @NGOC.TRINH XEM CHI TIẾT TẠI HTTPS://EXAMPLE.COM/BLOG   ,4650,,14,Negative,United Kingdom
+P00318,FB,U054,chef.tasty,2025-01-07 21:11:00 UTC,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #BACKTOSCHOOL @BRANDX_OFFICIAL MORE INFO: HTTPS://YOUTU.BE/XYZ123    ❤️,806,358,182,NEU,U.S.A
+P00319,YouTube,U030,music_fan,2025/02/22 03:59:00,big update: #sale is now available. limited promo #music @game.stream https://brandx.com,2615.0,147.0,68,POS,U.S.A
+P00320,YouTube,U008,music_fan,27-03-2025,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #VLOG @DAILY.VLOG MORE INFO: HTTP://BIT.LY/DEAL    😂,,703.0,445,,JP
+P00321,tiktok,U061,john.smith,05/02/2025 00:44,  BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #TIKTOKTREND @NGOC.TRINH REVIEW NGAY TẠI HTTPS://YOUTU.BE/XYZ123    💥,4025,529,511,NEG,germany
+P00322,IG,U055,brandX_official,2025/03/08 02:17:00,  big update: #vlog is now available. limited promo #football @sara.kim https://youtu.be/xyz123    💥,490,200,NA,negative,Thailand
+P00323,Twitter,U070,football_fever,28-02-2025,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #PROMO @HOA.LE MORE INFO: HTTPS://EXAMPLE.COM/BLOG   ,762,13,159,POS,South Korea
+P00324,youtube,U025,travel.with.me,2025/03/27 13:08:00,  live stream on youtube tonight! #summer #promo join us @movie_buff https://example.com/blog   , 4613 ,461,510,POS,thailand
+P00325,FB,U046,foodlover,2025/03/12 10:56:00,  Top 5 tips for better results with Brand X #vlog @daily.vlog More info: https://brandx.com   ,null,273,277,positive,vietnam
+P00326, Fb ,U061,movie_buff,2025/03/31 06:51:00,CHECK OUT OUR NEW CAMPAIGN #GIVEAWAY ON FACEBOOK! THANKS @LIFEOFLINH FOR SHARING THE NEWS. HTTPS://BRANDX.COM,640,,138,unknown,UK
+P00327,youtube,U029,chef.tasty,2025-03-07 01:53:00 UTC,TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #BACKTOSCHOOL @MINH.NGUYEN MORE INFO: HTTP://BIT.LY/DEAL 😀,375,310,396,neutral,Japan
+P00328,Facebook,U006,game.stream,2025/02/20 17:19:00,  live stream on facebook tonight! #giveaway #vlog join us @chef.tasty https://tiktok.com/@brandx    ❤️,1269,222,28,NEU,South Korea
+P00329,TIKTOK,U033,movie_buff,14/01/2025 17:32,    BẠN  ĐÃ  THỬ  SẢN  PHẨM  MỚI  CHƯA?  #PROMO  @GAME.STREAM  REVIEW  NGAY  TẠI  HTTPS://BRANDX.COM      ,1796,242,,POS,United States
+P00330,Twitter,U079,lan.tran,25-03-2025,  Live stream on Twitter tonight! #noel #blackfriday Join us @tech.guru https://tiktok.com/@brandx   ,2112,442,363,POS,KR
+P00331,twitter,U024,game.stream,06/01/2025 15:22,    bạn  đã  thử  sản  phẩm  mới  chưa?  #tiktoktrend  @game.stream  review  ngay  tại  https://tiktok.com/@brandx      ,447,10,304,NEG,uk
+P00332,facebook,U007,minh.nguyen,2025/03/28 00:39:00,live stream on facebook tonight! #football #newproduct join us @movie_buff http://bit.ly/deal,903,322,379,Positive,UK
+P00333,FB,U047,music_fan,2025-01-24 06:08:00 UTC,    CHECK  OUT  OUR  NEW  CAMPAIGN  #SUMMER  ON  FACEBOOK!  THANKS  @BRANDX_OFFICIAL  FOR  SHARING  THE  NEWS.  HTTP://BIT.LY/DEAL        ❤️,2137,, 0 ,neutral,korea
+P00334,facebook,U052,movie_buff,07/01/2025 19:31,  LIVE STREAM ON FACEBOOK TONIGHT! #SUMMER #BRANDX JOIN US @MUSIC_FAN HTTPS://BRANDX.COM   ,2219,212,202,,us
+P00335,instagram,U063,travel.with.me,2025/03/26 02:23:00,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #BRANDX @BRANDX_OFFICIAL MORE INFO: HTTPS://YOUTU.BE/XYZ123   ,2310,,65,POS,USA
+P00336,X,U021,daily.vlog, 2025-01-24 16:58:00 ,    top  5  tips  for  better  results  with  brand  x  #sale  @lan.tran  more  info:  http://bit.ly/deal      ,2289,141,396,Positive,TH
+P00337,X,U032,minh.nguyen,2025/01/06 05:02:00,  BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #NEWPRODUCT @FOOTBALL_FEVER REVIEW NGAY TẠI HTTPS://TIKTOK.COM/@BRANDX    ❤️,1237.0, 14 , 388 ,POS,USA
+P00338,FB,U061,game.stream,18/03/2025 16:02,top 5 tips for better results with brand x #hottrend @game.stream more info: https://example.com/blog ❤️,561,194,181,Neutral,thailand
+P00339,Instagram,U074,sara.kim,25/03/2025 04:58,  FEELING GREAT TODAY WITH #HOTTREND! COMMENT YOUR THOUGHTS @SARA.KIM HTTPS://EXAMPLE.COM/BLOG    👍,1545,152,134,pos,Thailand
+P00340,YOUTUBE,U072,review.channel,2025-03-07 01:33:00 UTC,    BẠN  ĐÃ  THỬ  SẢN  PHẨM  MỚI  CHƯA?  #SUMMER  @DAILY.VLOG  REVIEW  NGAY  TẠI  HTTPS://YOUTU.BE/XYZ123      ,1702.0,600.0,170,neutral,japan
+P00341, insta ,U003,chef.tasty,22-03-2025,BẠN  ĐÃ  THỬ  SẢN  PHẨM  MỚI  CHƯA?  #TRAVEL  @MUSIC_FAN  REVIEW  NGAY  TẠI  HTTP://BIT.LY/DEAL,580,,238,positive,VN
+P00342,youtube,U015,travel.with.me,30-03-2025,  check out our new campaign #food on youtube! thanks @lan.tran for sharing the news. http://bit.ly/deal    😂,1273,705,537,Neutral,TH
+P00343,tiktok,U033,brandX_official,10/02/2025 08:10,Live stream on TikTok tonight! #newproduct #football Join us @movie_buff http://bit.ly/deal 💥,,121,498,neutral,DE
+P00344,youtube,U032,chef.tasty,04-03-2025,  Check out our new campaign #winter on YouTube! Thanks @minh.nguyen for sharing the news. https://youtu.be/xyz123    🔥,2818,714,150,Positive,uk
+P00345, Tik Tok ,U021,review.channel,23-03-2025,  LIVE STREAM ON TIKTOK TONIGHT! #HOTTREND #GIVEAWAY JOIN US @BRANDX_OFFICIAL HTTPS://EXAMPLE.COM/BLOG    💥,null,null,283,pos,Viet Nam
+P00346,TWITTER,U066,tech.guru,05-03-2025,big update: #food is now available. limited promo #promo @music_fan https://brandx.com, 2006 ,NA,130,POS,germany
+P00347,Facebook,U055,review.channel,17/02/2025 03:44,big update: #winter is now available. limited promo #giveaway @tech.guru http://bit.ly/deal,106,492,344,negative,Viet Nam
+P00348, yt ,U015,tech.guru,12-01-2025,  Khách hàng nói gì về Brand X? #noel #hottrend @music_fan Xem chi tiết tại https://brandx.com   ,198,227,438,NEG,Korea
+P00349,X,U050,foodlover,29-03-2025,    Feeling  great  today  with  #travel!  Comment  your  thoughts  @minh.nguyen  https://brandx.com        🔥,286,42,194,positive,us
+P00350,X,,tech.guru,27-01-2025,  KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #PROMO #BACKTOSCHOOL @JOHN.SMITH XEM CHI TIẾT TẠI HTTPS://EXAMPLE.COM/BLOG    😀,600,451, 377 ,Positive,South Korea
+P00351, yt ,U068,game.stream,19-02-2025,    Check  out  our  new  campaign  #vlog  on  YouTube!  Thanks  @travel.with.me  for  sharing  the  news.  https://example.com/blog        👍, 4785 ,543,486,NEG,South Korea
+P00352,YOUTUBE,U005,daily.vlog,16-02-2025,    khách  hàng  nói  gì  về  brand  x?  #backtoschool  #vlog  @music_fan  xem  chi  tiết  tại  https://tiktok.com/@brandx      ,NA,,451,Positive,Thailand
+P00353, twt ,U024,brandX_official, 2025-01-05 03:15:00 ,    Top  5  tips  for  better  results  with  Brand  X  #football  @minh.nguyen  More  info:  https://tiktok.com/@brandx      ,340,330,330,NEG,japan
+P00354,tiktok,U003,hoa.le,30-01-2025,  KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #TRAVEL #FOOTBALL @LAN.TRAN XEM CHI TIẾT TẠI HTTPS://TIKTOK.COM/@BRANDX   ,356, 130 ,166,positive,korea
+P00355,X,U055,ngoc.trinh, 2025-01-16 11:03:00 ,Bạn đã thử sản phẩm mới chưa? #football @daily.vlog Review ngay tại https://example.com/blog 🔥, 91 ,268,NA,Negative,DE
+P00356,Twitter,U037,travel.with.me, 2025-02-13 06:44:00 ,  CHECK OUT OUR NEW CAMPAIGN #VLOG ON TWITTER! THANKS @FOOTBALL_FEVER FOR SHARING THE NEWS. HTTPS://EXAMPLE.COM/BLOG    🔥,1787,208.0,NA,Negative,Thailand
+P00357,YOUTUBE,U021,chef.tasty,02/01/2025 08:01,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #PROMO @JOHN.SMITH MORE INFO: HTTPS://BRANDX.COM   ,2777,null,401,,United Kingdom
+P00358,TWITTER,U020,music_fan,2025/01/18 07:14:00,  live stream on twitter tonight! #food #blackfriday join us @hoa.le https://example.com/blog    😂,1380,375,363.0,pos,U.K.
+P00359,instagram,U011,football_fever,2025-01-04 02:39:00 UTC,  CHECK OUT OUR NEW CAMPAIGN #VLOG ON INSTAGRAM! THANKS @SARA.KIM FOR SHARING THE NEWS. HTTP://BIT.LY/DEAL    😀,,51,82,Neutral,TH
+P00360,facebook,U073,football_fever,2025/03/05 08:04:00,  khách hàng nói gì về brand x? #giveaway #tiktoktrend @review.channel xem chi tiết tại https://brandx.com    😂,2442, 483 ,NA,NEG,TH
+P00361, Fb ,U035,travel.with.me,2025-02-03 05:40:00 UTC,  LIVE STREAM ON FACEBOOK TONIGHT! #TIKTOKTREND #BLACKFRIDAY JOIN US @LIFEOFLINH HTTPS://TIKTOK.COM/@BRANDX    💥,1974.0,270,184.0,NEU,U.S.A
+P00362,tiktok,U075,john.smith,21-03-2025,    feeling  great  today  with  #music!  comment  your  thoughts  @movie_buff  http://bit.ly/deal        👍,3158,NA,495.0,negative,uk
+P00363,Facebook,U043,ngoc.trinh,09/03/2025 23:01,  Khách hàng nói gì về Brand X? #summer #BrandX @foodlover Xem chi tiết tại https://youtu.be/xyz123    😀,2498,265.0, 349 ,Neutral,vietnam
+P00364,TikTok,U068,music_fan, 2025-01-16 08:54:00 ,  FEELING GREAT TODAY WITH #SUMMER! COMMENT YOUR THOUGHTS @LAN.TRAN HTTP://BIT.LY/DEAL   ,3257.0,425,317.0,Neutral,KR
+P00365, insta ,U050,lifeoflinh, 2025-02-19 14:03:00 ,Big update: #sale is now available. Limited promo #summer @movie_buff https://brandx.com 😀,983.0,321,null,pos,USA
+P00366,tiktok,U001,movie_buff,2025/02/21 08:40:00,BẠN  ĐÃ  THỬ  SẢN  PHẨM  MỚI  CHƯA?  #VLOG  @TRAVEL.WITH.ME  REVIEW  NGAY  TẠI  HTTPS://TIKTOK.COM/@BRANDX,3078,null,473,neg,U.S.A
+P00367,youtube,U037,football_fever,10-03-2025,    khách  hàng  nói  gì  về  brand  x?  #hottrend  #food  @foodlover  xem  chi  tiết  tại  https://youtu.be/xyz123        💥, 1942 ,769,490,Neutral,United States
+P00368,facebook,U039,lifeoflinh,02/02/2025 05:00,  bạn đã thử sản phẩm mới chưa? #brandx @football_fever review ngay tại https://youtu.be/xyz123    😂,624,75,266,NEG,TH
+P00369,YOUTUBE,U043,movie_buff,31/03/2025 10:40,  Live stream on YouTube tonight! #newproduct #hottrend Join us @daily.vlog https://youtu.be/xyz123    😂,3234,null,488,mixed,germany
+P00370,tiktok,U044,brandX_official,31-03-2025,    Bạn  đã  thử  sản  phẩm  mới  chưa?  #noel  @lan.tran  Review  ngay  tại  https://youtu.be/xyz123      ,4097,59,477,pos,UK
+P00371, Fb ,U060,foodlover,2025/03/07 12:26:00,    FEELING  GREAT  TODAY  WITH  #PROMO!  COMMENT  YOUR  THOUGHTS  @TRAVEL.WITH.ME  HTTPS://EXAMPLE.COM/BLOG        💥,1365,null,16,POS,vietnam
+P00372, insta ,U006,review.channel,2025/01/26 22:38:00,  FEELING GREAT TODAY WITH #HOTTREND! COMMENT YOUR THOUGHTS @SARA.KIM HTTPS://YOUTU.BE/XYZ123    😀,,NA,241,pos,Germany
+P00373,TIKTOK,,tech.guru,2025/03/20 02:56:00,  BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #BRANDX @MUSIC_FAN REVIEW NGAY TẠI HTTPS://EXAMPLE.COM/BLOG    ❤️, 994 ,559,575,unknown,us
+P00374,TikTok,U007,john.smith,29/01/2025 23:25,  khách hàng nói gì về brand x? #blackfriday #noel @tech.guru xem chi tiết tại https://brandx.com   ,603,569,31,neutral,Germany
+P00375,TIKTOK,U049,hoa.le,not_a_date,  bạn đã thử sản phẩm mới chưa? #vlog @sara.kim review ngay tại http://bit.ly/deal    😀,NA,603.0,170,Neutral,uk
+P00376, insta ,U057,foodlover,2025/03/24 20:17:00,    LIVE  STREAM  ON  INSTAGRAM  TONIGHT!  #HOTTREND  #MUSIC  JOIN  US  @MUSIC_FAN  HTTPS://EXAMPLE.COM/BLOG      ,2008,191,370,neutral,DE
+P00377,facebook,U063,brandX_official,2025-01-07 07:26:00 UTC,  KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #NEWPRODUCT #SALE @MUSIC_FAN XEM CHI TIẾT TẠI HTTPS://BRANDX.COM    😀,862,null, 19 ,Positive,thailand
+P00378,FB,U053,foodlover,2025-01-09 11:50:00 UTC,    LIVE  STREAM  ON  FACEBOOK  TONIGHT!  #NEWPRODUCT  #HOTTREND  JOIN  US  @FOODLOVER  HTTPS://YOUTU.BE/XYZ123        😀,507, 445 ,344,Negative,UK
+P00379,TIKTOK,U041,sara.kim,not_a_date,Big  update:  #vlog  is  now  available.  Limited  promo  #travel  @movie_buff  https://example.com/blog  💥,3976,390,78,positive,United States
+P00380, insta ,U025,,2025/03/26 09:39:00,LIVE STREAM ON INSTAGRAM TONIGHT! #MUSIC #SUMMER JOIN US @FOOTBALL_FEVER HTTPS://EXAMPLE.COM/BLOG,507,301,290,NEU,UK
+P00381,Facebook,U027,game.stream,2025/01/18 13:43:00,    TOP  5  TIPS  FOR  BETTER  RESULTS  WITH  BRAND  X  #WINTER  @MINH.NGUYEN  MORE  INFO:  HTTPS://YOUTU.BE/XYZ123        😀,28,479,387,positive,Germany
+P00382,Instagram,U030,foodlover, 2025-01-13 10:41:00 ,khách hàng nói gì về brand x? #giveaway #tiktoktrend @sara.kim xem chi tiết tại http://bit.ly/deal 👍,2092,24,222.0,POS,Thailand
+P00383,IG,U032,hoa.le,04/01/2025 06:05,BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #MUSIC @REVIEW.CHANNEL REVIEW NGAY TẠI HTTPS://EXAMPLE.COM/BLOG,1451,NA,0,neutral,USA
+P00384,X,U059,ngoc.trinh,16-01-2025,live  stream  on  twitter  tonight!  #vlog  #brandx  join  us  @minh.nguyen  http://bit.ly/deal  💥,118,315,278,Neutral,UK
+P00385,twitter,U073,minh.nguyen,16/02/2025 18:18,TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #MUSIC @GAME.STREAM MORE INFO: HTTPS://TIKTOK.COM/@BRANDX 😂,844,337, 132 ,mixed,VN
+P00386, insta ,U060,sara.kim, 2025-02-27 22:52:00 ,  live stream on instagram tonight! #football #travel join us @ngoc.trinh https://tiktok.com/@brandx   ,2361,null,336,negative,japan
+P00387,instagram,U074,lan.tran,21-01-2025,LIVE STREAM ON INSTAGRAM TONIGHT! #SALE #TRAVEL JOIN US @FOODLOVER HTTPS://TIKTOK.COM/@BRANDX 💥,1276,72,390,pos,UK
+P00388,YouTube,U056,minh.nguyen, 2025-03-26 05:54:00 ,KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #BRANDX #TIKTOKTREND @DAILY.VLOG XEM CHI TIẾT TẠI HTTPS://YOUTU.BE/XYZ123 ❤️,4625, 303 ,370,neutral,japan
+P00389,twitter,U035,minh.nguyen,2025-02-26 14:07:00 UTC,    khách  hàng  nói  gì  về  brand  x?  #newproduct  #summer  @game.stream  xem  chi  tiết  tại  https://tiktok.com/@brandx      ,694,89, 12 ,pos,UK
+P00390,twitter,U030,tech.guru,27/02/2025 14:30,  FEELING GREAT TODAY WITH #NEWPRODUCT! COMMENT YOUR THOUGHTS @MINH.NGUYEN HTTPS://YOUTU.BE/XYZ123   ,2177.0,,395,pos,DE
+P00391,YouTube,U029,brandX_official,18/02/2025 03:37,  top 5 tips for better results with brand x #hottrend @football_fever more info: https://example.com/blog   ,1251,307,215,positive,UK
+P00392,TikTok,U060,hoa.le, 2025-03-11 06:31:00 ,top  5  tips  for  better  results  with  brand  x  #noel  @hoa.le  more  info:  https://example.com/blog  😀,4777, 537 ,544,,Japan
+P00393,IG,U066,sara.kim,not_a_date,  Khách hàng nói gì về Brand X? #hottrend #travel @chef.tasty Xem chi tiết tại https://brandx.com   ,2312,NA, 1 ,POS,japan
+P00394, twt ,U009,minh.nguyen, 2025-02-23 17:22:00 ,Bạn đã thử sản phẩm mới chưa? #BrandX @minh.nguyen Review ngay tại https://tiktok.com/@brandx,1042,222,355.0,positive,thailand
+P00395, insta ,U072,hoa.le, 2025-02-11 16:14:00 ,    Check  out  our  new  campaign  #food  on  Instagram!  Thanks  @hoa.le  for  sharing  the  news.  https://youtu.be/xyz123        🔥,2347,78.0,109,POS,Japan
+P00396,FB,U061,movie_buff,16/03/2025 06:00,    FEELING  GREAT  TODAY  WITH  #BACKTOSCHOOL!  COMMENT  YOUR  THOUGHTS  @DAILY.VLOG  HTTPS://TIKTOK.COM/@BRANDX        ❤️,1283,79.0,null,NEG,Japan
+P00397,IG,U007,chef.tasty,01-03-2025,  BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #FOOD @MOVIE_BUFF REVIEW NGAY TẠI HTTPS://YOUTU.BE/XYZ123    👍,289,449,,NEU,UK
+P00398, yt ,U078,football_fever, 2025-02-01 18:13:00 ,  BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #FOOD @LIFEOFLINH REVIEW NGAY TẠI HTTPS://TIKTOK.COM/@BRANDX   ,1520,333,551,Neutral,japan
+P00399,youtube,U011,game.stream, 2025-01-06 23:50:00 ,  FEELING GREAT TODAY WITH #FOOD! COMMENT YOUR THOUGHTS @MUSIC_FAN HTTP://BIT.LY/DEAL   ,2058,519,123,pos,JP
+P00400, twt ,U077,review.channel,2025-02-09 03:56:00 UTC,    LIVE  STREAM  ON  TWITTER  TONIGHT!  #WINTER  #MUSIC  JOIN  US  @SARA.KIM  HTTPS://EXAMPLE.COM/BLOG        😂,1045,371, 106 ,POS,Japan
+P00401,twitter,U079,hoa.le, 2025-01-27 18:20:00 ,    CHECK  OUT  OUR  NEW  CAMPAIGN  #FOOTBALL  ON  TWITTER!  THANKS  @DAILY.VLOG  FOR  SHARING  THE  NEWS.  HTTPS://TIKTOK.COM/@BRANDX        💥,1732,116,170,Negative,germany
+P00402,TikTok,U029,tech.guru,2025-01-03 14:32:00 UTC,  Khách hàng nói gì về Brand X? #winter #vlog @minh.nguyen Xem chi tiết tại https://youtu.be/xyz123    ❤️,4747,390,235,NEU,United States
+P00403,Twitter,U036,travel.with.me,2025/02/28 06:21:00,    big  update:  #winter  is  now  available.  limited  promo  #backtoschool  @ngoc.trinh  https://youtu.be/xyz123        😀,190,null,,POS,DE
+P00404, twt ,U054,john.smith,2025/03/17 16:35:00,TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #FOOTBALL @MUSIC_FAN MORE INFO: HTTPS://YOUTU.BE/XYZ123 ❤️,1706,21.0,280,POS,Viet Nam
+P00405,Instagram,U046,sara.kim,02/01/2025 00:22,  CHECK OUT OUR NEW CAMPAIGN #BLACKFRIDAY ON INSTAGRAM! THANKS @SARA.KIM FOR SHARING THE NEWS. HTTP://BIT.LY/DEAL   ,31.0,368,315,neutral,Germany
+P00406,YouTube,,minh.nguyen,2025/03/22 15:32:00,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #VLOG @JOHN.SMITH MORE INFO: HTTPS://TIKTOK.COM/@BRANDX    😀,null,2,260,NEU,us
+P00407,facebook,U039,travel.with.me, 2025-03-25 20:13:00 ,    KHÁCH  HÀNG  NÓI  GÌ  VỀ  BRAND  X?  #BACKTOSCHOOL  #TIKTOKTREND  @BRANDX_OFFICIAL  XEM  CHI  TIẾT  TẠI  HTTPS://EXAMPLE.COM/BLOG      ,775, 382 ,16,pos,germany
+P00408,IG,U062,movie_buff,2025/03/02 20:01:00,Feeling great today with #football! Comment your thoughts @john.smith http://bit.ly/deal 😂,2447,85,null,pos,United Kingdom
+P00409, Tik Tok ,U050,chef.tasty,2025/02/05 03:04:00,  Big update: #giveaway is now available. Limited promo #winter @lan.tran https://tiktok.com/@brandx    👍,2929,704,null,Negative,TH
+P00410,Twitter,U009,movie_buff,22/03/2025 21:07,  Khách hàng nói gì về Brand X? #giveaway #tiktoktrend @football_fever Xem chi tiết tại https://example.com/blog    😂,2245, 179 ,NA,POS,VN
+P00411,FACEBOOK,U006,sara.kim,2025-01-30 18:23:00 UTC,    bạn  đã  thử  sản  phẩm  mới  chưa?  #giveaway  @travel.with.me  review  ngay  tại  http://bit.ly/deal      ,null,44,256,NEU,Viet Nam
+P00412,youtube,U017,lan.tran,04-01-2025,    live  stream  on  youtube  tonight!  #winter  #brandx  join  us  @football_fever  https://youtu.be/xyz123      ,4607.0,NA,405,,Japan
+P00413,facebook,U007,daily.vlog,2025/03/03 18:05:00,  Feeling great today with #promo! Comment your thoughts @football_fever https://example.com/blog    🔥,949,112,393,POS,Thailand
+P00414,Twitter,U048,football_fever,26/01/2025 04:57,check out our new campaign #food on twitter! thanks @minh.nguyen for sharing the news. https://brandx.com,1824,438,32.0,,JP
+P00415, insta ,U014,ngoc.trinh,08/01/2025 20:12,  big update: #promo is now available. limited promo #summer @foodlover https://tiktok.com/@brandx   ,2053,246,395,mixed,VN
+P00416,facebook,U070,foodlover,09/03/2025 11:24,  BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #FOOD @DAILY.VLOG REVIEW NGAY TẠI HTTPS://YOUTU.BE/XYZ123   , 1481 ,NA,119,Positive,TH
+P00417,YouTube,U068,daily.vlog,2025-01-11 22:45:00 UTC,  Feeling great today with #giveaway! Comment your thoughts @foodlover https://example.com/blog    ❤️,705,65,318,pos,United Kingdom
+P00418,FB,U065,lan.tran,20/02/2025 18:03,  LIVE STREAM ON FACEBOOK TONIGHT! #BACKTOSCHOOL #WINTER JOIN US @REVIEW.CHANNEL HTTPS://YOUTU.BE/XYZ123   ,NA,486,88,neutral,vietnam
+P00419,Twitter,U032,lifeoflinh,24/02/2025 09:45,Big update: #music is now available. Limited promo #backtoschool @review.channel http://bit.ly/deal 🔥, 2205 ,NA,298,neg,TH
+P00420,TikTok,,brandX_official,09/02/2025 05:44,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #BRANDX @DAILY.VLOG MORE INFO: HTTPS://BRANDX.COM   , 710 ,null,null,neutral,Japan
+P00421,Instagram,U058,tech.guru, 2025-03-05 08:16:00 ,TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #PROMO @MOVIE_BUFF MORE INFO: HTTPS://YOUTU.BE/XYZ123,13,52,118.0,positive,japan
+P00422, insta ,U040,sara.kim,2025-03-05 09:47:00 UTC,  LIVE STREAM ON INSTAGRAM TONIGHT! #BACKTOSCHOOL #BLACKFRIDAY JOIN US @LIFEOFLINH HTTPS://YOUTU.BE/XYZ123   ,1914,,201,positive,USA
+P00423,FB,U019,hoa.le,2025/01/19 04:11:00,  BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #BACKTOSCHOOL @MUSIC_FAN REVIEW NGAY TẠI HTTPS://BRANDX.COM   ,2390,379,319,NEU,UK
+P00424,Instagram,U079,travel.with.me,2025/01/06 18:18:00,KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #WINTER #FOOD @FOOTBALL_FEVER XEM CHI TIẾT TẠI HTTPS://BRANDX.COM,388,497,41,neutral,Japan
+P00425,TikTok,U080,brandX_official,16/02/2025 02:16,  Check out our new campaign #blackfriday on TikTok! Thanks @ngoc.trinh for sharing the news. https://youtu.be/xyz123   ,3908,358,414.0,negative,Viet Nam
+P00426,FB,U021,travel.with.me,2025-03-27 13:27:00 UTC,live stream on facebook tonight! #promo #football join us @music_fan http://bit.ly/deal 🔥,,322,NA,Positive,Japan
+P00427,instagram,U076,daily.vlog,2025/02/28 16:42:00,  CHECK OUT OUR NEW CAMPAIGN #NEWPRODUCT ON INSTAGRAM! THANKS @MINH.NGUYEN FOR SHARING THE NEWS. HTTPS://EXAMPLE.COM/BLOG    😂,2284,498.0,NA,neg,Viet Nam
+P00428,Twitter,U075,tech.guru,2025-03-03 05:47:00 UTC,  khách hàng nói gì về brand x? #food #blackfriday @travel.with.me xem chi tiết tại https://example.com/blog    👍,, 9 ,237,mixed,Japan
+P00429,tiktok,U047,,22/02/2025 07:52,live stream on tiktok tonight! #summer #giveaway join us @game.stream https://youtu.be/xyz123 🔥,3273,316,NA,NEU,USA
+P00430,Instagram,U057,football_fever, 2025-02-20 07:36:00 ,    khách  hàng  nói  gì  về  brand  x?  #brandx  #tiktoktrend  @lan.tran  xem  chi  tiết  tại  https://example.com/blog      ,2473.0,207,197,Neutral,japan
+P00431,YouTube,U021,hoa.le,15-03-2025,  check out our new campaign #newproduct on youtube! thanks @minh.nguyen for sharing the news. https://youtu.be/xyz123   ,1223, 607 ,594,POS,Germany
+P00432,facebook,U028,minh.nguyen,10-03-2025,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #PROMO @SARA.KIM MORE INFO: HTTPS://TIKTOK.COM/@BRANDX   ,2132,47,339.0,NEU,thailand
+P00433, insta ,U060,movie_buff,2025/03/08 07:03:00,  Feeling great today with #winter! Comment your thoughts @daily.vlog https://example.com/blog    😂,1374,193,58,Positive,uk
+P00434,facebook,U038,review.channel,28/02/2025 14:06,Top 5 tips for better results with Brand X #noel @game.stream More info: https://youtu.be/xyz123 💥,2143,138.0,null,Negative,TH
+P00435,tiktok,U041,football_fever,2025/01/03 06:59:00,  feeling great today with #vlog! comment your thoughts @foodlover https://brandx.com    👍,678,730,,Positive,Korea
+P00436,facebook,U070,game.stream,31/03/2025 15:52,  Live stream on Facebook tonight! #promo #winter Join us @ngoc.trinh https://brandx.com    😂,2405,137,387,neutral,United States
+P00437,twitter,U027,football_fever,2025/02/14 18:03:00,  FEELING GREAT TODAY WITH #TIKTOKTREND! COMMENT YOUR THOUGHTS @HOA.LE HTTPS://BRANDX.COM    ❤️,1017,260,345,Neutral,Vietnam
+P00438,instagram,U072,ngoc.trinh,27/03/2025 10:07,  Check out our new campaign #newproduct on Instagram! Thanks @ngoc.trinh for sharing the news. https://youtu.be/xyz123    👍,222,281.0,352,negative,germany
+P00439,Facebook,U043,minh.nguyen,19/03/2025 16:31,    KHÁCH  HÀNG  NÓI  GÌ  VỀ  BRAND  X?  #FOOTBALL  #SALE  @JOHN.SMITH  XEM  CHI  TIẾT  TẠI  HTTP://BIT.LY/DEAL        👍, 1234 ,471,NA,pos,Thailand
+P00440,youtube,U013,minh.nguyen,2025/03/25 21:06:00,  KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #TRAVEL #FOOD @SARA.KIM XEM CHI TIẾT TẠI HTTPS://TIKTOK.COM/@BRANDX   ,4689,441.0,354,pos,Vietnam
+P00441,Facebook,U061,game.stream,06-02-2025,FEELING GREAT TODAY WITH #SUMMER! COMMENT YOUR THOUGHTS @BRANDX_OFFICIAL HTTP://BIT.LY/DEAL ❤️,1066,464,388,neg,korea
+P00442,twitter,U064,football_fever,16-01-2025,    Check  out  our  new  campaign  #travel  on  Twitter!  Thanks  @hoa.le  for  sharing  the  news.  https://brandx.com      ,1478,319,247,Negative,Japan
+P00443,TikTok,U065,tech.guru,02-02-2025,  Check out our new campaign #noel on TikTok! Thanks @tech.guru for sharing the news. https://brandx.com    😀, 1935 ,NA,547,positive,germany
+P00444,TikTok,U042,game.stream,2025/01/18 04:00:00,BẠN  ĐÃ  THỬ  SẢN  PHẨM  MỚI  CHƯA?  #NEWPRODUCT  @SARA.KIM  REVIEW  NGAY  TẠI  HTTPS://TIKTOK.COM/@BRANDX,2540,629,582,pos,Korea
+P00445,tiktok,U052,game.stream,2025-03-03 16:44:00 UTC,BIG UPDATE: #VLOG IS NOW AVAILABLE. LIMITED PROMO #NOEL @SARA.KIM HTTPS://YOUTU.BE/XYZ123 💥,NA,704.0,NA,NEU,U.S.A
+P00446,TWITTER,U054,game.stream,06/03/2025 08:00,Bạn đã thử sản phẩm mới chưa? #giveaway @hoa.le Review ngay tại http://bit.ly/deal ❤️,NA,262,341,pos,thailand
+P00447, Tik Tok ,U074,minh.nguyen,2025/01/26 04:54:00,  FEELING GREAT TODAY WITH #SALE! COMMENT YOUR THOUGHTS @MOVIE_BUFF HTTP://BIT.LY/DEAL    💥,NA,165,202,Positive,thailand
+P00448,twitter,U003,minh.nguyen, 2025-02-01 10:13:00 ,  CHECK OUT OUR NEW CAMPAIGN #WINTER ON TWITTER! THANKS @TECH.GURU FOR SHARING THE NEWS. HTTPS://EXAMPLE.COM/BLOG   ,NA,187,52,pos,U.K.
+P00449,facebook,U031,review.channel,2025-03-23 01:45:00 UTC,  top 5 tips for better results with brand x #hottrend @tech.guru more info: https://youtu.be/xyz123   ,2418,381,241,NEG,Germany
+P00450,youtube,U009,football_fever,24-02-2025,TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #TRAVEL @LIFEOFLINH MORE INFO: HTTP://BIT.LY/DEAL,521.0,NA,85.0,Positive,USA
+P00451,Facebook,U036,chef.tasty,26/02/2025 09:28,  Khách hàng nói gì về Brand X? #BrandX #giveaway @tech.guru Xem chi tiết tại https://tiktok.com/@brandx   ,264, 160 ,null,Neutral,United States
+P00452, Tik Tok ,U007,sara.kim,01/03/2025 05:14,BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #NOEL @FOOTBALL_FEVER REVIEW NGAY TẠI HTTP://BIT.LY/DEAL,4554,710,456,Negative,South Korea
+P00453,instagram,U017,daily.vlog,22-02-2025,KHÁCH  HÀNG  NÓI  GÌ  VỀ  BRAND  X?  #VLOG  #PROMO  @TECH.GURU  XEM  CHI  TIẾT  TẠI  HTTPS://EXAMPLE.COM/BLOG  😂,219, 318 ,270.0,NEG,japan
+P00454,YouTube,U076,john.smith,02-02-2025,  BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #HOTTREND @CHEF.TASTY REVIEW NGAY TẠI HTTPS://YOUTU.BE/XYZ123   , 354 , 219 ,8.0,Positive,thailand
+P00455, yt ,U076,sara.kim,2025/03/14 05:58:00,    Top  5  tips  for  better  results  with  Brand  X  #tiktoktrend  @brandX_official  More  info:  https://example.com/blog        💥,3376,NA,16,pos,Thailand
+P00456,youtube,U045,daily.vlog,31/01/2025 22:20,  CHECK OUT OUR NEW CAMPAIGN #BRANDX ON YOUTUBE! THANKS @LIFEOFLINH FOR SHARING THE NEWS. HTTP://BIT.LY/DEAL   ,2253,499,303.0,NEU,TH
+P00457,IG,U064,,2025/01/14 05:40:00,BIG UPDATE: #PROMO IS NOW AVAILABLE. LIMITED PROMO #FOOD @JOHN.SMITH HTTP://BIT.LY/DEAL 👍,968, 445 , 126 ,Neutral,Vietnam
+P00458, insta ,U078,minh.nguyen,15-03-2025,    LIVE  STREAM  ON  INSTAGRAM  TONIGHT!  #BRANDX  #SUMMER  JOIN  US  @MINH.NGUYEN  HTTPS://TIKTOK.COM/@BRANDX      ,2158,217,7,Positive,Korea
+P00459,youtube,U031,chef.tasty,24-03-2025,  LIVE STREAM ON YOUTUBE TONIGHT! #NEWPRODUCT #NOEL JOIN US @CHEF.TASTY HTTPS://YOUTU.BE/XYZ123   ,3766,566.0,,NEU,vietnam
+P00460, insta ,U040,game.stream,2025/03/24 21:24:00,CHECK OUT OUR NEW CAMPAIGN #TRAVEL ON INSTAGRAM! THANKS @CHEF.TASTY FOR SHARING THE NEWS. HTTP://BIT.LY/DEAL,1409,130,51,pos,japan
+P00461,TWITTER,U074,brandX_official,2025/02/06 16:37:00,  khách hàng nói gì về brand x? #noel #sale @travel.with.me xem chi tiết tại https://tiktok.com/@brandx   ,NA,181.0, 103 ,NEU,TH
+P00462,FB,U054,hoa.le, 2025-01-23 00:51:00 ,LIVE STREAM ON FACEBOOK TONIGHT! #FOOTBALL #BLACKFRIDAY JOIN US @TRAVEL.WITH.ME HTTPS://TIKTOK.COM/@BRANDX 😀,1750,39,80.0,neg,Vietnam
+P00463,instagram,U068,chef.tasty,2025/02/14 05:43:00,TOP  5  TIPS  FOR  BETTER  RESULTS  WITH  BRAND  X  #HOTTREND  @MOVIE_BUFF  MORE  INFO:  HTTPS://YOUTU.BE/XYZ123  😀,1596,385,391,POS,JP
+P00464,TWITTER,U052,game.stream,12/01/2025 13:08,  KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #FOOD #VLOG @MINH.NGUYEN XEM CHI TIẾT TẠI HTTPS://TIKTOK.COM/@BRANDX   ,1108,339,31.0,neutral,United Kingdom
+P00465,FACEBOOK,U013,game.stream,22/01/2025 00:33,    BIG  UPDATE:  #HOTTREND  IS  NOW  AVAILABLE.  LIMITED  PROMO  #FOOD  @LAN.TRAN  HTTPS://EXAMPLE.COM/BLOG        😂,1986,157,176,,U.S.A
+P00466,FACEBOOK,U025,music_fan,2025/02/16 08:07:00,KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #SUMMER #SALE @FOODLOVER XEM CHI TIẾT TẠI HTTP://BIT.LY/DEAL,95, 272 ,362,POS,U.S.A
+P00467, twt ,U047,review.channel, 2025-02-03 02:04:00 ,  FEELING GREAT TODAY WITH #BACKTOSCHOOL! COMMENT YOUR THOUGHTS @HOA.LE HTTPS://TIKTOK.COM/@BRANDX    💥,1135,11.0,,pos,japan
+P00468,YouTube,U073,tech.guru, 2025-02-26 05:16:00 ,feeling great today with #vlog! comment your thoughts @brandx_official https://brandx.com,null,581,6,NEU,us
+P00469,Facebook,U020,chef.tasty,2025-01-22 16:11:00 UTC,  khách hàng nói gì về brand x? #promo #travel @tech.guru xem chi tiết tại https://example.com/blog    ❤️,1998.0,414,45,Positive,germany
+P00470, insta ,U029,lifeoflinh,2025/01/16 01:46:00,KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #HOTTREND #MUSIC @LIFEOFLINH XEM CHI TIẾT TẠI HTTPS://YOUTU.BE/XYZ123,1429,null,90,Neutral,germany
+P00471,TikTok,U062,football_fever,09-03-2025,Check out our new campaign #backtoschool on TikTok! Thanks @travel.with.me for sharing the news. http://bit.ly/deal 💥,4697,710,546,NEU,Viet Nam
+P00472,FB,U073,football_fever,25-03-2025,FEELING GREAT TODAY WITH #WINTER! COMMENT YOUR THOUGHTS @SARA.KIM HTTP://BIT.LY/DEAL 😀,302,399,354.0,Positive,U.K.
+P00473, insta ,U004,sara.kim,26-01-2025,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #NOEL @NGOC.TRINH MORE INFO: HTTPS://YOUTU.BE/XYZ123   ,307,NA,365,positive,JP
+P00474,youtube,U039,movie_buff,14-03-2025,  BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #PROMO @TECH.GURU REVIEW NGAY TẠI HTTPS://EXAMPLE.COM/BLOG    😀,975,225, 13 ,,Korea
+P00475,FB,U040,movie_buff,30/03/2025 22:03,  KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #BLACKFRIDAY #TRAVEL @DAILY.VLOG XEM CHI TIẾT TẠI HTTPS://EXAMPLE.COM/BLOG   ,2225,287,331,NEG,South Korea
+P00476,TIKTOK,U077,chef.tasty,02-03-2025,    BẠN  ĐÃ  THỬ  SẢN  PHẨM  MỚI  CHƯA?  #MUSIC  @LIFEOFLINH  REVIEW  NGAY  TẠI  HTTPS://TIKTOK.COM/@BRANDX        👍,NA,294,null,Neutral,germany
+P00477, insta ,,lifeoflinh,2025-03-04 17:02:00 UTC,  BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #FOOD @MUSIC_FAN REVIEW NGAY TẠI HTTPS://YOUTU.BE/XYZ123   ,389,248,NA,Negative,Viet Nam
+P00478,youtube,U049,football_fever, 2025-01-16 19:15:00 ,  Feeling great today with #travel! Comment your thoughts @lifeoflinh https://example.com/blog   ,4043,428,419,Negative,japan
+P00479,Facebook,U080,chef.tasty,03/03/2025 04:35,top 5 tips for better results with brand x #newproduct @chef.tasty more info: https://youtu.be/xyz123 👍,1764,365,,NEU,Korea
+P00480,instagram,U043,foodlover,2025/03/11 19:14:00,  bạn đã thử sản phẩm mới chưa? #noel @music_fan review ngay tại https://example.com/blog    💥,1956,260,124,positive,Thailand
+P00481,X,,football_fever,26/01/2025 15:54,    BẠN  ĐÃ  THỬ  SẢN  PHẨM  MỚI  CHƯA?  #WINTER  @MINH.NGUYEN  REVIEW  NGAY  TẠI  HTTPS://YOUTU.BE/XYZ123        😀,329,102.0,,Negative,U.S.A
+P00482,TikTok,U029,tech.guru,not_a_date,  BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #SALE @LIFEOFLINH REVIEW NGAY TẠI HTTPS://YOUTU.BE/XYZ123   ,2771,662,30,Neutral,USA
+P00483,TWITTER,U015,john.smith,2025/01/14 22:17:00,Feeling great today with #newproduct! Comment your thoughts @tech.guru https://youtu.be/xyz123 😀,1460,264,157,Negative,Korea
+P00484, yt ,U038,lifeoflinh, 2025-01-04 01:44:00 ,BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #NOEL @TRAVEL.WITH.ME REVIEW NGAY TẠI HTTPS://BRANDX.COM ❤️,1274,6,442,Positive,JP
+P00485,Twitter,U051,hoa.le,2025/01/21 10:20:00,  Check out our new campaign #music on Twitter! Thanks @game.stream for sharing the news. https://youtu.be/xyz123    💥,2212,475.0,186,neg,korea
+P00486,twitter,U056,lan.tran,09-03-2025,check out our new campaign #food on twitter! thanks @football_fever for sharing the news. https://tiktok.com/@brandx 🔥,2067.0,456, 247 ,pos,germany
+P00487, yt ,U015,travel.with.me,19/01/2025 16:09,  FEELING GREAT TODAY WITH #NEWPRODUCT! COMMENT YOUR THOUGHTS @MUSIC_FAN HTTPS://YOUTU.BE/XYZ123   ,NA,674, 414 ,positive,us
+P00488, Tik Tok ,U067,football_fever, 2025-03-19 01:43:00 ,FEELING GREAT TODAY WITH #BACKTOSCHOOL! COMMENT YOUR THOUGHTS @FOODLOVER HTTPS://TIKTOK.COM/@BRANDX ❤️,2491,692, 575 ,Negative,Thailand
+P00489,tiktok,U006,minh.nguyen,2025/01/26 07:56:00,check out our new campaign #tiktoktrend on tiktok! thanks @minh.nguyen for sharing the news. https://example.com/blog,1188,611.0,NA,positive,JP
+P00490,Instagram,U073,john.smith,23/03/2025 18:15,  Bạn đã thử sản phẩm mới chưa? #travel @tech.guru Review ngay tại https://brandx.com    🔥,838,37,NA,NEG,South Korea
+P00491,Facebook,U044,chef.tasty,16/03/2025 11:20,FEELING GREAT TODAY WITH #VLOG! COMMENT YOUR THOUGHTS @LAN.TRAN HTTPS://BRANDX.COM 😂,784,136,385,Neutral,Japan
+P00492,IG,U054,john.smith,2025/01/19 08:50:00,KHÁCH HÀNG NÓI GÌ VỀ BRAND X? #SALE #BRANDX @FOOTBALL_FEVER XEM CHI TIẾT TẠI HTTPS://EXAMPLE.COM/BLOG 😀,1910.0, 497 ,32,Neutral,japan
+P00493,FB,U029,lan.tran, 2025-01-07 04:29:00 ,big update: #winter is now available. limited promo #noel @tech.guru http://bit.ly/deal ❤️,256.0,171,203,negative,Germany
+P00494, Tik Tok ,U012,john.smith,2025/02/16 13:43:00,  BIG UPDATE: #VLOG IS NOW AVAILABLE. LIMITED PROMO #BLACKFRIDAY @CHEF.TASTY HTTPS://EXAMPLE.COM/BLOG   ,,620,388,Positive,VN
+P00495,facebook,U027,review.channel,18/03/2025 06:15,top  5  tips  for  better  results  with  brand  x  #giveaway  @movie_buff  more  info:  https://example.com/blog,908,372,191,Neutral,Viet Nam
+P00496,Facebook,U007,chef.tasty,2025-03-08 11:00:00 UTC,  CHECK OUT OUR NEW CAMPAIGN #PROMO ON FACEBOOK! THANKS @GAME.STREAM FOR SHARING THE NEWS. HTTPS://EXAMPLE.COM/BLOG   ,492.0,,209,NEG,VN
+P00497,TikTok,U022,, 2025-02-19 13:36:00 ,  LIVE STREAM ON TIKTOK TONIGHT! #SUMMER #BLACKFRIDAY JOIN US @LIFEOFLINH HTTP://BIT.LY/DEAL   ,3099,765,180,Positive,United Kingdom
+P00498,youtube,U035,brandX_official,11/03/2025 18:37,  TOP 5 TIPS FOR BETTER RESULTS WITH BRAND X #FOOTBALL @MOVIE_BUFF MORE INFO: HTTPS://TIKTOK.COM/@BRANDX   ,4516,224,144,,Thailand
+P00499, yt ,U003,lifeoflinh,19/03/2025 01:14,BIG UPDATE: #SALE IS NOW AVAILABLE. LIMITED PROMO #NEWPRODUCT @TRAVEL.WITH.ME HTTP://BIT.LY/DEAL,3844,494,330.0,Positive,japan
+P00500, yt ,U025,travel.with.me,2025/01/09 14:36:00,  BẠN ĐÃ THỬ SẢN PHẨM MỚI CHƯA? #SUMMER @LAN.TRAN REVIEW NGAY TẠI HTTP://BIT.LY/DEAL    👍,2999,468,496,Neutral,United States

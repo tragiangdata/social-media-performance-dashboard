@@ -1,0 +1,77 @@
+user_id,user_name,country,language,account_type,followers_count,verified,join_date,age_group,gender,industry
+U001,NGOC.TRINH446,Germany,fr,media,47302,True,2023-07-11,18-24,female,Sports
+U002,JOHN.SMITH 😀,France,vi,personal,1087,False,,45-54,female,Technology
+U003, news.today372  😀,Japan,ja,media,443789,False,,25-34,female,Food & Beverage
+U004,movie_buff,Vietnam,ko,influencer,157486,False,2024-08-05,45-54,male,Education
+U005,chef.tasty606,France,de,personal,2030,False,2019-12-05,25-34,other,Sports
+U006, travel.with.me  ⭐,UK,th,influencer,0,False,,25-34,male,Entertainment
+U007,NEWS.TODAY,UK,vi,personal,245,True,,25-34,other,Travel
+U008,football_fever,USA,ja,personal,2276,False,2018-11-10,18-24,other,Technology
+U009, lifeoflinh414 ,USA,de,media,57295,True,,25-34,female,Beauty & Fashion
+U010, brandX_official23 ,Japan,ja,personal,759,False,,35-44,other,Retail  🔥
+U011, REVIEW.CHANNEL665 ,France,fr,personal,1397,True,,45-54,other,Travel
+U012,brandx_official31,France,ja,brand,435320,True,,35-44,other,Technology
+U013, chef.tasty120 ,USA,th,brand,80635,False,2022-08-27,35-44,female,Food & Beverage
+U014, lan.tran ,Vietnam,fr,personal,254,False,,25-34,other,
+U015, hoa.le455 ,Vietnam,fr,creator,0,False,2018-06-14,25-34,male,Food & Beverage  🔥
+U016, NEWS.TODAY ,Korea,de,media,517253,False,,25-34,other,Food & Beverage
+U017, CHEF.TASTY777  🔥,Thailand,en,personal,275,False,,45-54,male,Education
+U019,travel.with.me45,Germany,de,personal,2123,True,2023-10-15,45-54,male,Sports
+U020, hoa.le165  ⭐,Vietnam,th,personal,4828,True,,,female,Technology  😀
+U021,MOVIE_BUFF,Japan,fr,brand,66958,True,,25-34,other,Sports
+U022, sara.kim456 ,Japan,ko,media,385623,False,,35-44,female,Retail 😀
+U023, lan.tran419 ,France,en,personal,3286,False,,18-24,female,
+U025, chef.tasty ,Japan,fr,media,632265,False,2021-07-10,18-24,female,Technology
+U026, DEAL.HUNTER937 ,Vietnam,fr,influencer,287869,False,,35-44,female,Entertainment
+U027, music_fan  😀,Korea,fr,creator,498587,True,2018-05-11,18-24,other,Retail
+U028,movie_buff953 ⭐,Thailand,th,brand,254350,False,2021-07-18,45-54,other,Sports
+U029,foodlover787,Germany,ja,personal,4226,False,2024-08-10,25-34,female,Retail
+U030,brandX_official80,Korea,de,media,833411,True,2022-07-04,45-54,male,Beauty & Fashion
+U031,football_fever204,Thailand,th,personal,4183,False,,35-44,male,Technology
+U032,brandX_official170,Japan,th,personal,4062,False,2019-01-21,25-34,female,Food & Beverage ❤️
+U033, football_fever860 ,France,de,personal,0,False,,18-24,male,Education
+U034,john.smith990,Korea,ja,personal,2211,False,2018-10-06,45-54,other,Technology 😀
+U035,travel.with.me 🔥,Korea,fr,personal,4505,False,2020-10-08,18-24,male,Entertainment
+U036,football_fever88 ⭐,Germany,de,personal,4808,False,,25-34,male,Sports
+U037,REVIEW.CHANNEL405,USA,de,creator,169373,False,,18-24,female,Retail
+U038, news.today153  ❤️,Germany,vi,personal,3940,True,,25-34,female,Food & Beverage
+U039,REVIEW.CHANNEL732,UK,de,personal,4679,False,2024-01-08,25-34,male,Finance
+U040,Unknown,UK,fr,personal,4066,False,,35-44,female,Sports 😀
+U041,tech.guru,Thailand,de,media,0,True,,35-44,other,Travel
+U042,daily.vlog1,UK,ko,personal,4437,False,2021-06-12,,male,Travel
+U043,game.stream,Korea,de,personal,1047,False,,35-44,male,Retail
+U044,MINH.NGUYEN364 🔥,Korea,th,personal,0,True,2021-12-13,35-44,other,Sports ❤️
+U045, FOOTBALL_FEVER279 ,Japan,ko,personal,3142,False,,18-24,male,Sports
+U046, BRANDX_OFFICIAL ,Germany,ja,personal,2742,True,2023-08-05,,female,Beauty & Fashion  ⭐
+U047, game.stream351 ,France,ja,brand,383404,True,,18-24,male,Beauty & Fashion  ⭐
+U048, NEWS.TODAY ,Germany,ko,personal,4066,False,2019-08-17,45-54,female,Travel
+U049, NEWS.TODAY741  ⭐,UK,th,personal,3511,False,,35-44,other,Finance
+U050,brandx_official,UK,en,personal,1928,True,,,male,Sports
+U051, brandX_official ,Thailand,th,media,0,False,,,other,Finance
+U052, lifeoflinh ,Japan,vi,brand,489620,False,,18-24,female,Food & Beverage
+U053, hoa.le ,Japan,de,brand,293227,True,2019-10-06,25-34,female,Entertainment  ⭐
+U054, john.smith343 ,Thailand,en,personal,1461,True,,35-44,female,Food & Beverage
+U055, tech.guru730  ❤️,USA,en,media,188270,False,,25-34,other,Education
+U056,music_fan,Japan,ja,personal,3336,False,2022-02-22,25-34,other,Technology
+U057,deal.hunter ⭐,Japan,ja,personal,3625,True,,25-34,male,Education
+U058, MINH.NGUYEN669 ,Japan,th,influencer,19804,True,,25-34,female,Entertainment
+U059, GAME.STREAM ,Thailand,ja,personal,0,True,2020-12-10,45-54,other,
+U060,NGOC.TRINH32,Korea,en,personal,968,True,,18-24,other,Travel
+U061,LAN.TRAN13 ❤️,Korea,en,creator,324372,True,,18-24,other,Food & Beverage
+U062, movie_buff ,Vietnam,ja,personal,0,True,2022-02-24,18-24,other,Entertainment
+U063,Unknown,Japan,ja,personal,0,False,2023-11-03,45-54,female,Beauty & Fashion
+U064, football_fever  ⭐,USA,vi,media,542696,False,,18-24,other,Travel
+U065, deal.hunter385  ❤️,Vietnam,en,influencer,94421,False,,18-24,male,Beauty & Fashion
+U067,deal.hunter546,USA,en,personal,1272,False,2023-12-13,25-34,female,Technology
+U068, foodlover625 ,Thailand,vi,personal,3788,False,2023-12-05,25-34,other,Education  😀
+U069, deal.hunter ,France,fr,personal,4189,True,,18-24,male,Finance 🔥
+U070,minh.nguyen,USA,en,personal,1281,False,2020-10-26,45-54,other,Food & Beverage
+U071, news.today116 ,France,ko,personal,2817,True,2022-06-05,18-24,other,Education
+U072,deal.hunter,Japan,ja,personal,1726,True,2022-01-03,18-24,other,Retail  ⭐
+U073, NGOC.TRINH458 ,Thailand,ko,personal,1462,False,2020-10-09,18-24,other,Entertainment
+U074, brandX_official949 ,Germany,de,influencer,0,True,,35-44,female,Retail
+U076,game.stream830,Thailand,ko,personal,4643,False,,45-54,male,Education
+U077, game.stream  ⭐,France,fr,personal,1141,False,,45-54,female,Education  ⭐
+U078, daily.vlog ,France,fr,personal,1129,False,,25-34,other,Travel
+U079, minh.nguyen ,Germany,en,personal,2680,True,,18-24,male,Entertainment
+U080, chef.tasty  ⭐,Vietnam,th,personal,3960,False,,45-54,other,Finance

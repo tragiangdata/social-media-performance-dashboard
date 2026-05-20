@@ -1,0 +1,81 @@
+user_id,user_name,country,language,account_type,followers_count,verified,join_date,age_group,gender,industry
+U001,NGOC.TRINH446,DE,fre,media,47302,,11/7/2023,18-24,f, SPORTS 
+U002,JOHN.SMITH 😀,france,VIET,PERSONAL,1087,0,19-05-2022,45 - 54,FEMALE, Technology 
+U003, news.today372  😀,Japan,,Media,443789,FALSE,not_a_date,25 to 34,F, Food & Beverage 
+U004,movie_buff,Vietnam,ko,Influencer,157486,no,5/8/2024,45 - 54,M, education 
+U005,chef.tasty606,France,german,personal,2030,no,5/12/2019,25_34,, Sports 
+U006, travel.with.me  ⭐,United Kingdom,thai,influencer,null,FALSE, 2019-07-31 ,25 to 34,M,Entertainment
+U007,NEWS.TODAY,U.K.,VIET,Personal,245,1,3/24/2021,25 - 34,non-binary,travel
+U008,football_fever,United States,jp,personal,"2,276",no,10/11/2018,18 - 24,other,Technology
+U009, lifeoflinh414 ,United States,ger,publisher,57295,, 2018-01-01 ,25 to 34,female, Beauty & Fashion 
+U010, brandX_official23 ,JP,JA,user,759,FALSE, 2020-10-05 ,35_44,non-binary, retail  🔥
+U011, REVIEW.CHANNEL665 ,France,french,individual,1397,,26-04-2022,45_54,OTHER, TRAVEL 
+U012,brandx_official31,France,JA,brand page,435320,, 2023-06-14 ,35_44,non-binary, TECHNOLOGY 
+U013, chef.tasty120 ,U.S.A,TH,Brand,"80,635",FALSE,27/08/2022,35 - 44,Female, Food & Beverage 
+U014, lan.tran ,vietnam,french,Personal,254,FALSE, 2019-08-25 ,25 to 34,non-binary,
+U015, hoa.le455 ,VN,FR,creator,NA,0,14/06/2018,25_34,m, Food & Beverage  🔥
+U016, NEWS.TODAY ,South Korea,german,media,"517,253",no,not_a_date,25 - 34,,Food & Beverage
+U017, CHEF.TASTY777  🔥,Thailand,eng,personal,275,FALSE, 2022-03-15 ,45-54,M, EDUCATION 
+U018,sara.kim85,Germany,TH,,499035,no,26-11-2024,45 - 54,FEMALE, sports  ⭐
+U019,travel.with.me45,Germany,,user,2123,,15/10/2023,45 to 54,male,Sports
+U020, hoa.le165  ⭐,Vietnam,thai,Personal,4828,TRUE, 2022-10-30 ,,female, Technology  😀
+U021,MOVIE_BUFF,Japan,fr,brand page,66958,TRUE,7/28/2023,25-34,other, Sports 
+U022, sara.kim456 ,JP,ko,publisher,"385,623",FALSE,29-11-2019,35-44,Female,Retail 😀
+U023, lan.tran419 ,france,EN,Personal,"3,286",FALSE, 2024-03-27 ,18 - 24,female,
+U024,lifeoflinh359,Thailand,de,,NA,FALSE,28/10/2021,25_34,M,Sports
+U025, chef.tasty ,JP,french,publisher,632265,FALSE,10/7/2021,18 - 24,female,Technology
+U026, DEAL.HUNTER937 ,vietnam,fre,Influencer,287869,0, 2018-02-07 ,35 - 44,female,Entertainment
+U027, music_fan  😀,South Korea,FR,Creator,498587,TRUE,11/5/2018,18-24,other,Retail
+U028,movie_buff953 ⭐,TH,,brand page,254350,0,18/07/2021,45-54,non-binary,SPORTS
+U029,foodlover787,germany,JA,personal,4226,FALSE,10/8/2024,25_34,female, Retail 
+U030,brandX_official80,South Korea,ger,Media,833411,,4/7/2022,45 - 54,M,beauty & fashion
+U031,football_fever204,Thailand,,user,4183,0, 2018-10-17 ,35 - 44,male, technology 
+U032,brandX_official170,Japan,thai,personal,4062,FALSE,21/01/2019,25 to 34,female,FOOD & BEVERAGE ❤️
+U033, football_fever860 ,France,DE,Personal,null,FALSE, 2020-06-28 ,18_24,male, EDUCATION 
+U034,john.smith990,korea,jp,user,2211,FALSE,6/10/2018,45 to 54,,Technology 😀
+U035,travel.with.me 🔥,korea,fr,personal,4505,FALSE,8/10/2020,18 to 24,M, ENTERTAINMENT 
+U036,football_fever88 ⭐,germany,DE,user,4808,no,29-08-2024,25 to 34,male,SPORTS
+U037,REVIEW.CHANNEL405,U.S.A,german,Creator,169373,FALSE,5/18/2024,18 to 24,female, Retail 
+U038, news.today153  ❤️,germany,vietnamese,PERSONAL,3940,,13-12-2018,25 - 34,Female,Food & Beverage
+U039,REVIEW.CHANNEL732,UK,german,individual,4679,FALSE,8/1/2024,25_34,M, Finance 
+U040,,United Kingdom,fr,user,4066,no,12/16/2020,35 - 44,f,Sports 😀
+U041,tech.guru,TH,DE,Media,null,1, 2022-08-05 ,35-44,OTHER, TRAVEL 
+U042,daily.vlog1,United Kingdom,KO,Personal,4437,FALSE,12/6/2021,,MALE, Travel 
+U043,game.stream,Korea,ger,PERSONAL,1047,no, 2021-06-16 ,35-44,m,retail
+U044,MINH.NGUYEN364 🔥,Korea,TH,Personal,null,TRUE,13/12/2021,35_44,other,Sports ❤️
+U045, FOOTBALL_FEVER279 ,japan,ko,Personal,3142,no, 2021-04-07 ,18 to 24,M, Sports 
+U046, BRANDX_OFFICIAL ,germany,japanese,personal,"2,742",TRUE,5/8/2023,,FEMALE, Beauty & Fashion  ⭐
+U047, game.stream351 ,FR,japanese,brand,"383,404",1, 2022-04-28 ,18_24,Male, Beauty & Fashion  ⭐
+U048, NEWS.TODAY ,germany,korean,personal,4066,FALSE,17/08/2019,45 to 54,Female, TRAVEL 
+U049, NEWS.TODAY741  ⭐,GB,TH,personal,3511,FALSE,16-03-2021,35 - 44,non-binary, FINANCE 
+U050,brandx_official,UK,,PERSONAL,"1,928",TRUE,7/23/2023,,m,SPORTS
+U051, brandX_official ,TH,,media,,0, 2021-03-26 ,,,Finance
+U052, lifeoflinh ,Japan,VIET,BRAND,489620,no,27-04-2023,18_24,Female,food & beverage
+U053, hoa.le ,japan,de,BRAND,293227,1,6/10/2019,25_34,female, Entertainment  ⭐
+U054, john.smith343 ,Thailand,en,user,1461,,31-01-2020,35 - 44,Female,FOOD & BEVERAGE
+U055, tech.guru730  ❤️,US,,MEDIA,188270,FALSE,not_a_date,25-34,, Education 
+U056,music_fan,JP,,Personal,"3,336",FALSE,22/02/2022,25 - 34,other, TECHNOLOGY 
+U057,deal.hunter ⭐,JP,JA,user,3625,1, 2023-02-16 ,25_34,Male,Education
+U058, MINH.NGUYEN669 ,japan,thai,influencer,"19,804",TRUE,26-11-2022,25_34,Female,Entertainment
+U059, GAME.STREAM ,thailand,jp,personal,NA,,10/12/2020,45 to 54,non-binary,
+U060,NGOC.TRINH32,Korea,en,individual,968,,24-07-2023,18 - 24,non-binary,Travel
+U061,LAN.TRAN13 ❤️,KR,en,CREATOR,324372,1, 2020-09-08 ,18-24,Other, Food & Beverage 
+U062, movie_buff ,vn,JA,PERSONAL,NA,,24/02/2022,18_24,other,Entertainment
+U063,,Japan,,PERSONAL,,FALSE,3/11/2023,45-54,Female,Beauty & Fashion
+U064, football_fever  ⭐,U.S.A,vi,media,542696,FALSE,12/26/2019,18_24,non-binary,Travel
+U065, deal.hunter385  ❤️,vn,en,influencer,94421,no,not_a_date,18 - 24,M, Beauty & Fashion 
+U066, DAILY.VLOG267 ,FR,,,"4,350",0,24/01/2023,,other,Finance
+U067,deal.hunter546,United States,eng,Personal,"1,272",FALSE,13/12/2023,25-34,F,Technology
+U068, foodlover625 ,thailand,vietnamese,Personal,3788,0,5/12/2023,25 - 34,OTHER, education  😀
+U069, deal.hunter ,France,,Personal,4189,, 2022-04-14 ,18-24,Male,Finance 🔥
+U070,minh.nguyen,us,,personal,"1,281",no,26/10/2020,45 to 54,OTHER,FOOD & BEVERAGE
+U071, news.today116 ,France,KO,Personal,"2,817",,5/6/2022,18 to 24,OTHER, education 
+U072,deal.hunter,JP,japanese,individual,1726,,3/1/2022,18_24,OTHER, retail  ⭐
+U073, NGOC.TRINH458 ,thailand,KO,user,1462,FALSE,9/10/2020,18_24,non-binary,Entertainment
+U074, brandX_official949 ,germany,,Influencer,,,20-03-2018,35 to 44,F, retail 
+U075, foodlover ,us,vi,,4509,FALSE,7/7/2022,45-54,OTHER, Education 
+U076,game.stream830,Thailand,ko,personal,"4,643",0,6/19/2023,45 to 54,Male, Education 
+U077, game.stream  ⭐,france,fr,individual,1141,0,20-05-2020,45-54,Female, EDUCATION  ⭐
+U078, daily.vlog ,France,,PERSONAL,1129,no,not_a_date,25 - 34,OTHER, Travel 
+U079, minh.nguyen ,germany,EN,Personal,2680,1, 2021-02-17 ,18-24,m,Entertainment
+U080, chef.tasty  ⭐,VN,th,personal,3960,FALSE, 2022-08-16 ,45-54,, Finance 
